@@ -1,0 +1,10 @@
+{
+  "id": "github-20260703-099",
+  "title": "修正后的知识条目示例",
+  "source_url": "https://github.com/example/repo",
+  "summary": "本文介绍了一个基于 Transformer 架构的 AI Agent 系统，利用深度学习技术实现了自动化推理与多模态理解，为开发者提供了高效的 Agent 编排能力。",
+  "tags": ["ai-agents", "transformer"],
+  "status": "draft",
+  "score": 7,
+  "collected_at": "2026-07-03T12:00:00Z"
+}
