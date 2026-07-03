@@ -1,0 +1,13 @@
+{
+  "id": "gh-trending-20260703-004",
+  "title": "Video-Use: 浏览器 Agent 的多模态视频理解",
+  "source": "github-trending",
+  "url": "https://github.com/browser-use/video-use",
+  "collected_at": "2026-07-03T12:00:00Z",
+  "summary": "Video-Use 扩展了浏览器 Agent 的能力边界，使其能够理解和交互视频内容。是多模态 AI Agent 的重要进展。",
+  "tags": ["browser-agent", "multimodal", "video-understanding"],
+  "relevance_score": 0.80,
+  "category": "Multimodal AI",
+  "language": "Python",
+  "stars_today": 420
+}

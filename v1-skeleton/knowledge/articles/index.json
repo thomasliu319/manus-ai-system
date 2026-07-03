@@ -1,0 +1,73 @@
+{
+  "updated_at": "2026-07-03T12:00:00Z",
+  "source": "github-trending",
+  "date": "2026-07-03",
+  "total_articles": 8,
+  "discarded": 2,
+  "entries": [
+    {
+      "id": "gh-trending-20260703-001",
+      "slug": "strix-ai-pentest",
+      "title": "Strix: 开源 AI 渗透测试工具",
+      "relevance_score": 0.75,
+      "category": "AI Security",
+      "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "id": "gh-trending-20260703-002",
+      "slug": "agency-agents-framework",
+      "title": "Agency-Agents: 多 Agent 编排框架",
+      "relevance_score": 0.92,
+      "category": "AI Agents",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "id": "gh-trending-20260703-003",
+      "slug": "chrome-devtools-mcp",
+      "title": "Chrome DevTools MCP: 浏览器开发者工具的 AI Agent 接口",
+      "relevance_score": 0.88,
+      "category": "MCP Ecosystem",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "id": "gh-trending-20260703-004",
+      "slug": "browser-use-video",
+      "title": "Video-Use: 浏览器 Agent 的多模态视频理解",
+      "relevance_score": 0.80,
+      "category": "Multimodal AI",
+      "url": "https://github.com/browser-use/video-use"
+    },
+    {
+      "id": "gh-trending-20260703-005",
+      "slug": "ecc-agent-harness",
+      "title": "ECC: Agent 性能优化系统 — GitHub AI 话题第一",
+      "relevance_score": 0.95,
+      "category": "Agent Infrastructure",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "id": "gh-trending-20260703-006",
+      "slug": "langflow-visual-framework",
+      "title": "Langflow: 可视化多 Agent 与 RAG 应用框架",
+      "relevance_score": 0.82,
+      "category": "AI Frameworks",
+      "url": "https://github.com/langflow-ai/langflow"
+    },
+    {
+      "id": "gh-trending-20260703-007",
+      "slug": "facebook-astryx-design-system",
+      "title": "Astryx: Facebook 开源的 Agent Ready 设计系统",
+      "relevance_score": 0.65,
+      "category": "Frontend",
+      "url": "https://github.com/facebook/astryx"
+    },
+    {
+      "id": "gh-trending-20260703-008",
+      "slug": "openai-codex-plugin",
+      "title": "OpenAI Codex Plugin: 持续编码的 AI 协作新模式",
+      "relevance_score": 0.85,
+      "category": "Coding Agents",
+      "url": "https://github.com/openai/codex-plugin-cc"
+    }
+  ]
+}
