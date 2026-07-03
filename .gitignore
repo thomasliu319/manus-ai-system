@@ -196,6 +196,7 @@ cython_debug/
 *.njsproj
 *.sln
 *.sw?
+*.env
 
 # Abstra
 #   Abstra is an AI-powered process automation framework.

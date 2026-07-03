@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260703-002",
+  "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+  "source": "rss",
+  "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+  "source_url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+  "collected_at": "2026-07-03T14:21:07Z",
+  "summary": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+  "tags": [
+    "unknown"
+  ],
+  "relevance_score": 36,
+  "status": "draft",
+  "category": "Uncategorized",
+  "language": ""
+}

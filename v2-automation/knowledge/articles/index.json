@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T12:00:00Z",
+  "updated_at": "2026-07-03T14:21:07Z",
   "source": "github-trending",
   "date": "2026-07-03",
   "total_articles": 8,
@@ -33,7 +33,7 @@
       "id": "gh-trending-20260703-004",
       "slug": "browser-use-video",
       "title": "Video-Use: 浏览器 Agent 的多模态视频理解",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "category": "Multimodal AI",
       "url": "https://github.com/browser-use/video-use"
     },
@@ -68,6 +68,47 @@
       "relevance_score": 0.85,
       "category": "Coding Agents",
       "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "id": "rss-20260703-001",
+      "title": "Half-Baked Product",
+      "slug": "half-baked-product",
+      "relevance_score": 624,
+      "category": "Uncategorized",
+      "url": "https://weli.dev/blog/half-baked-product/"
+    },
+    {
+      "id": "rss-20260703-002",
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "slug": "postgresql-and-the-oom-killer-why-we-use-strict-memory-overc",
+      "relevance_score": 36,
+      "category": "Uncategorized",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit"
+    },
+    {
+      "id": "rss-20260703-003",
+      "title": "Virginia bans sale of geolocation data",
+      "slug": "virginia-bans-sale-of-geolocation-data",
+      "relevance_score": 896,
+      "category": "Uncategorized",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data"
+    },
+    {
+      "id": "rss-20260703-004",
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "slug": "valve-open-source-the-steam-machine-e-ink-screen-so-you-can-",
+      "relevance_score": 77,
+      "category": "Uncategorized",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/"
+    },
+    {
+      "id": "rss-20260703-005",
+      "title": "Right to Local Intelligence",
+      "slug": "right-to-local-intelligence",
+      "relevance_score": 360,
+      "category": "Uncategorized",
+      "url": "https://righttointelligence.org/"
     }
-  ]
+  ],
+  "total": 13
 }
