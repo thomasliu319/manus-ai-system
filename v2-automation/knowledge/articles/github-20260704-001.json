@@ -1,0 +1,18 @@
+{
+  "id": "github-20260704-001",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2026-07-04T16:07:28Z",
+  "collected_at": "2026-07-04T16:53:10.239201+00:00",
+  "summary": "NousResearch/hermes-agent 是一个自适应智能体框架，旨在与用户共同成长，通过持续学习和交互优化其行为。该项目提供了构建可扩展、个性化AI代理的基础设施，适用于需要长期协作的场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:54:18.547180+00:00"
+}
