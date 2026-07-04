@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-016",
+  "title": "Check out real-life AI prototypes from the Futures Lab.",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:38:19.216445+00:00",
+  "collected_at": "2026-07-04T16:38:19.216445+00:00",
+  "summary": "Google AI Blog 的 Futures Lab 展示了真实世界中的 AI 原型，这些原型探索了 AI 技术在实际应用中的创新可能性。该内容强调了从实验到落地的过程，为开发者提供了前沿的实践参考。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:39:23.978449+00:00"
+}

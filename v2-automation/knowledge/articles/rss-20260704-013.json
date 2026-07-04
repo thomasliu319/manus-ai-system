@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-013",
+  "title": "How we used Gemini to build Google I/O 2026",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:38:19.216431+00:00",
+  "collected_at": "2026-07-04T16:38:19.216431+00:00",
+  "summary": "本文介绍了Google如何利用其Gemini模型构建和优化Google I/O 2026大会的技术流程，展示了Gemini在大型活动中的实际应用价值。核心内容包括使用Gemini进行内容生成、自动化任务处理和提升用户体验。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:39:23.978440+00:00"
+}
