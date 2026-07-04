@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260704-006",
+  "title": "Ask an AI expert: What exactly is the full stack?",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:38:19.216395+00:00",
+  "collected_at": "2026-07-04T16:38:19.216395+00:00",
+  "summary": "该文章由AI专家解释全栈（full stack）在AI领域的含义，涵盖从数据收集、模型训练到部署和监控的完整流程。核心价值在于帮助读者理解AI系统开发的端到端架构，而非仅关注单一组件。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:39:23.978415+00:00"
+}

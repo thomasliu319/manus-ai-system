@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-020",
+  "title": "100 things we announced at I/O 2026",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:38:19.216485+00:00",
+  "collected_at": "2026-07-04T16:38:19.216485+00:00",
+  "summary": "Google I/O 2026 发布了 100 项 AI 相关更新，涵盖从基础模型到应用工具的广泛创新，展示了 AI 技术在多模态、推理和开发效率上的最新进展。这些公告为开发者提供了丰富的工具和平台能力，推动 AI 应用落地。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "vision",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:39:23.978483+00:00"
+}

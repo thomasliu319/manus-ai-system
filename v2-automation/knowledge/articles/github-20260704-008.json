@@ -1,0 +1,19 @@
+{
+  "id": "github-20260704-008",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "author": "DietrichGebert",
+  "published_at": "2026-07-01T23:34:52Z",
+  "collected_at": "2026-07-04T16:38:16.491793+00:00",
+  "summary": "该项目通过提示工程使AI代理模仿资深开发者的懒惰思维，优先考虑不编写代码的解决方案，从而减少不必要的代码生成。它提供了一种优化AI代码生成效率的方法，强调代码质量而非数量。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:39:23.978355+00:00"
+}
