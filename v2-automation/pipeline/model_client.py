@@ -285,8 +285,8 @@ def chat(
         {"role": "user", "content": prompt},
     ]
 
-    # provider_name 仅当显式传入且合法时使用，否则 create_provider 会安全回退到 deepseek
-    llm = create_provider(provider)
+    provider_name = provider or os.getenv("LLM_PROVIDER", "deepseek")
+    llm = create_provider(provider_name)
     try:
         response = chat_with_retry(llm, messages, max_retries=max_retries)
         result = response.to_dict()

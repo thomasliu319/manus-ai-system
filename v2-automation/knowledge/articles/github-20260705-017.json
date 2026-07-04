@@ -1,0 +1,19 @@
+{
+  "id": "github-20260705-017",
+  "title": "HKUDS/nanobot",
+  "source": "github",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "author": "HKUDS",
+  "published_at": "2026-07-04T13:25:47Z",
+  "collected_at": "2026-07-04T16:14:39.938412+00:00",
+  "summary": "nanobot是一个轻量级、开源AI代理，专注于工具集成、聊天和工作流自动化。它允许用户连接多种工具以增强交互并自动化任务，提供了一个可定制且易于扩展的助手框架。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:19:11.485305+00:00"
+}

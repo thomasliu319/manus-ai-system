@@ -1,0 +1,20 @@
+{
+  "id": "github-20260705-019",
+  "title": "AstrBotDevs/AstrBot",
+  "source": "github",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "author": "AstrBotDevs",
+  "published_at": "2026-07-04T11:57:12Z",
+  "collected_at": "2026-07-04T16:14:39.938453+00:00",
+  "summary": "AstrBot is an AI agent assistant and development framework that integrates multiple IM platforms, LLMs, and plugins, enabling rapid construction of feature-rich AI bots. It serves as an open-source alternative to OpenClaw, offering extensible AI capabilities and multi-channel deployment.",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:19:11.485324+00:00"
+}

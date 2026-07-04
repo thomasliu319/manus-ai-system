@@ -1,0 +1,19 @@
+{
+  "id": "github-20260705-013",
+  "title": "aaif-goose/goose",
+  "source": "github",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "author": "aaif-goose",
+  "published_at": "2026-07-03T17:54:52Z",
+  "collected_at": "2026-07-04T16:14:39.938319+00:00",
+  "summary": "An open-source AI agent that extends beyond code suggestions, integrating with any LLM to perform install, execute, edit, and test tasks. It empowers developers to automate end-to-end development workflows, offering practical coding assistance beyond simple completions.",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:19:11.485275+00:00"
+}
