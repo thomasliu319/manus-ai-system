@@ -175,26 +175,21 @@ PROVIDER_CONFIG: dict[str, dict[str, str]] = {
 
 def create_provider(provider_name: str | None = None) -> LLMProvider:
     """
-    工厂函数：根据提供商名称创建对应的 LLM 客户端。
+    工厂函数：创建 LLM 客户端（默认使用 DeepSeek）。
 
     Args:
-        provider_name: 提供商名称（deepseek/qwen/openai），
-                       默认读取环境变量 LLM_PROVIDER
+        provider_name: 提供商名称，仅在非 None 时生效（deepseek/qwen/openai），
+                       默认和所有异常/空值均回退到 deepseek
 
     Returns:
         LLMProvider 实例
 
     Raises:
-        ValueError: 未知的提供商名称
         RuntimeError: 缺少 API Key
     """
-    raw = provider_name or os.getenv("LLM_PROVIDER") or "deepseek"
-    name = raw.strip().lower()
-
-    if name not in PROVIDER_CONFIG:
-        raise ValueError(
-            f"未知的模型提供商: {name}，支持: {', '.join(PROVIDER_CONFIG.keys())}"
-        )
+    name = "deepseek"
+    if provider_name and provider_name.strip().lower() in PROVIDER_CONFIG:
+        name = provider_name.strip().lower()
 
     config = PROVIDER_CONFIG[name]
     api_key = os.getenv(config["api_key_env"], "")
@@ -290,8 +285,8 @@ def chat(
         {"role": "user", "content": prompt},
     ]
 
-    provider_name = provider or os.getenv("LLM_PROVIDER", "deepseek")
-    llm = create_provider(provider_name)
+    # provider_name 仅当显式传入且合法时使用，否则 create_provider 会安全回退到 deepseek
+    llm = create_provider(provider)
     try:
         response = chat_with_retry(llm, messages, max_retries=max_retries)
         result = response.to_dict()
