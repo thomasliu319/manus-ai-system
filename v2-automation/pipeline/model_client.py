@@ -187,7 +187,8 @@ def create_provider(provider_name: str | None = None) -> LLMProvider:
         ValueError: 未知的提供商名称
         RuntimeError: 缺少 API Key
     """
-    name = (provider_name or os.getenv("LLM_PROVIDER", "deepseek")).lower()
+    raw = provider_name or os.getenv("LLM_PROVIDER") or "deepseek"
+    name = raw.strip().lower()
 
     if name not in PROVIDER_CONFIG:
         raise ValueError(
