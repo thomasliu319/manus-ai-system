@@ -134,7 +134,8 @@ class OpenAICompatibleProvider(LLMProvider):
         resp.raise_for_status()
         data = resp.json()
 
-        content = data["choices"][0]["message"]["content"]
+        message = data["choices"][0]["message"]
+        content = message.get("content") or message.get("reasoning_content", "")
         usage_data = data.get("usage", {})
         usage = Usage(
             prompt_tokens=usage_data.get("prompt_tokens", 0),

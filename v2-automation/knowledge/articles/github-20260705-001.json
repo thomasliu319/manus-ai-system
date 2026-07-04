@@ -1,0 +1,19 @@
+{
+  "id": "github-20260705-001",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": "2026-07-04T15:34:28Z",
+  "collected_at": "2026-07-04T16:02:26.695814+00:00",
+  "summary": "The Hermes Agent is an open-source autonomous agent framework by Nous Research, designed to evolve with the user through customizable tool use, long-term memory, and adaptive behavior, enabling more personalized and capable AI assistants that learn over time.",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:02:47.847417+00:00"
+}

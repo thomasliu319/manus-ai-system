@@ -36,12 +36,12 @@ sources:
     enabled: true
 
   - name: "Anthropic Research"
-    url: "https://www.anthropic.com/research/rss.xml"
+    url: "https://www.anthropic.com/feed.xml"
     category: "industry"
     enabled: true
 
   - name: "Google AI Blog"
-    url: "https://blog.google/technology/ai/rss/"
+    url: "https://blog.google/innovation-and-ai/technology/ai/rss/"
     category: "industry"
     enabled: true
 
@@ -52,7 +52,7 @@ sources:
     enabled: true
 
   - name: "LangChain Blog"
-    url: "https://blog.langchain.dev/rss/"
+    url: "https://www.langchain.com/blog/rss"
     category: "framework"
     enabled: true
 
@@ -60,9 +60,9 @@ sources:
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
     category: "chinese"
-    enabled: false  # 需确认 RSS 可用性
+    enabled: true
 
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
     category: "chinese"
-    enabled: false  # 需确认 RSS 可用性
+    enabled: true

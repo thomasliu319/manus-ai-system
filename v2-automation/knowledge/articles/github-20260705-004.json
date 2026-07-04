@@ -1,0 +1,18 @@
+{
+  "id": "github-20260705-004",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "author": "browser-use",
+  "published_at": "2026-07-03T20:27:33Z",
+  "collected_at": "2026-07-04T16:02:26.695927+00:00",
+  "summary": "browser-use 是一个开源库，使 AI 代理能够通过浏览器自动化在线任务，为网站交互提供标准化接口。其核心价值在于简化 AI 代理与网页的交互，提升自动化任务开发效率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:02:47.847494+00:00"
+}
