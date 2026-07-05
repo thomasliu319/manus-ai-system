@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260705-020",
+  "title": "How AI Mode is changing the way people search in the U.S.",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-05T10:06:55.572024+00:00",
+  "collected_at": "2026-07-05T10:06:55.572024+00:00",
+  "summary": "Google AI Blog 介绍了 AI 模式如何改变美国用户的搜索方式，通过生成式 AI 提供更智能、更直接的答案。该技术提升了搜索的效率和准确性，代表了搜索体验的重要进化。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-05T10:08:12.776243+00:00"
+}
