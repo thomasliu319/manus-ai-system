@@ -1,6 +1,3 @@
-所有工具均不可用，错误非我方能解决。请直接在终端执行：
-
-cat > /home/thomas/mySpace/manus-ai-system/README.md << 'README_EOF'
 # Manus AI 知识库系统
 
 自动化技术情报采集、分析与整理流水线，持续追踪 AI/LLM/Agent 领域的高质量技术文章与开源项目。
