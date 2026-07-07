@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-001",
+  "title": "Please stop the AI confidence theater",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-04T16:53:11.616063+00:00",
+  "collected_at": "2026-07-04T16:53:11.616063+00:00",
+  "summary": "本文批评了AI领域中过度自信的现象，指出许多AI系统在输出结果时缺乏适当的置信度评估，导致用户对AI能力产生误解。文章呼吁开发者应更透明地展示AI的不确定性，以建立更健康的用户期望。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:54:18.547296+00:00"
+}

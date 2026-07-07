@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260704-006",
+  "title": "Ask an AI expert: What exactly is the full stack?",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:53:13.159590+00:00",
+  "collected_at": "2026-07-04T16:53:13.159590+00:00",
+  "summary": "本文由AI专家解释全栈开发的概念，涵盖前端、后端及数据库的整合，强调其在现代AI应用中的重要性。内容适合中级开发者，提供实用见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:54:18.547312+00:00"
+}

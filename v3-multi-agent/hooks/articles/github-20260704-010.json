@@ -1,0 +1,19 @@
+{
+  "id": "github-20260704-010",
+  "title": "earendil-works/pi",
+  "source": "github",
+  "source_url": "https://github.com/earendil-works/pi",
+  "author": "earendil-works",
+  "published_at": "2026-07-04T13:57:13Z",
+  "collected_at": "2026-07-04T16:53:10.239288+00:00",
+  "summary": "该项目是一个AI代理工具包，提供统一的LLM API接口、代理循环、TUI界面和编码代理CLI，旨在简化AI代理的开发与交互。其核心价值在于通过集成多种功能模块，降低构建和部署AI代理的复杂度，提升开发效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:54:18.547233+00:00"
+}

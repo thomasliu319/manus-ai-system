@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260705-019",
+  "title": "A new experiment brings better group meetings to Google Beam",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-05T10:06:55.572020+00:00",
+  "collected_at": "2026-07-05T10:06:55.572020+00:00",
+  "summary": "Google Beam 通过一项新实验改进了群组会议体验，可能涉及 AI 驱动的会议优化功能。该技术旨在提升协作效率和会议质量，体现了 AI 在办公场景中的实用价值。",
+  "score": 6,
+  "tags": [
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-05T10:08:12.776234+00:00"
+}

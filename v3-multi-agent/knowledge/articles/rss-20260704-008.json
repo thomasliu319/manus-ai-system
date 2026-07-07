@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260704-008",
+  "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-04T16:53:13.159608+00:00",
+  "collected_at": "2026-07-04T16:53:13.159608+00:00",
+  "summary": "Google AI 的 AMIE 医疗 AI 研究展示了其在管理健康状况方面的潜力，通过对话式交互提供个性化建议。该技术旨在辅助医疗专业人员，提升患者护理效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-04T16:54:18.547318+00:00"
+}
