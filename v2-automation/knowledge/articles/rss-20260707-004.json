@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260707-004",
+  "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02672",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:51:04.193158+00:00",
+  "collected_at": "2026-07-07T10:51:04.193158+00:00",
+  "summary": "该论文探讨了在人工智能决策中，内部多元主义与成对比较方法的局限性。核心内容分析了当存在多个内部价值或标准时，简单的成对比较可能无法充分捕捉复杂偏好，从而提出更全面的评估框架。这项工作对理解AI系统的价值对齐和决策理论有重要贡献。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-07T10:52:13.332431+00:00"
+}
