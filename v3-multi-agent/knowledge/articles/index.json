@@ -1,0 +1,57 @@
+{
+  "github-20260708-001": {
+    "title": "NousResearch/hermes-agent",
+    "source": "github",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "relevance": 0.9,
+    "tags": [
+      "agent",
+      "tool-use",
+      "reasoning"
+    ]
+  },
+  "github-20260708-002": {
+    "title": "langgenius/dify",
+    "source": "github",
+    "source_url": "https://github.com/langgenius/dify",
+    "relevance": 0.95,
+    "tags": [
+      "agent",
+      "rag",
+      "llm",
+      "tool-use",
+      "deployment"
+    ]
+  },
+  "github-20260708-003": {
+    "title": "langchain-ai/langchain",
+    "source": "github",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "relevance": 0.95,
+    "tags": [
+      "agent",
+      "tool-use"
+    ]
+  },
+  "github-20260708-004": {
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "relevance": 0.92,
+    "tags": [
+      "agent",
+      "rag",
+      "llm"
+    ]
+  },
+  "github-20260708-005": {
+    "title": "browser-use/browser-use",
+    "source": "github",
+    "source_url": "https://github.com/browser-use/browser-use",
+    "relevance": 0.9,
+    "tags": [
+      "agent",
+      "tool-use"
+    ]
+  }
+}

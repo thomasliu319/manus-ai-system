@@ -1,0 +1,18 @@
+{
+  "id": "github-20260708-003",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "raw_description": "The agent engineering platform.",
+  "stars": 141302,
+  "collected_at": "2026-07-08T13:42:12.181747+00:00",
+  "summary": "LangChain 是一个用于构建智能代理的开发平台，提供链式调用、工具集成和记忆管理等功能。它简化了基于大语言模型的应用开发，支持多种工具和工作流编排，是当前最流行的代理工程框架之一。",
+  "relevance": 0.95,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "category": "agent-framework",
+  "status": "analyzed",
+  "analyzed_at": "2026-07-08T13:42:32.294897+00:00"
+}
