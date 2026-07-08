@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-006",
+  "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05571",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:12:18.728879+00:00",
+  "collected_at": "2026-07-08T10:12:18.728879+00:00",
+  "summary": "CSTutorBench 是一个用于评估小型语言模型在基于块的编程教学中作为导师能力的基准测试。该基准测试通过模拟教学场景，衡量模型在解释概念、提供反馈和引导学习者方面的表现，为教育领域的小型语言模型应用提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:13:33.604436+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-005",
+  "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:12:18.728868+00:00",
+  "collected_at": "2026-07-08T10:12:18.728868+00:00",
+  "summary": "该论文提出了一种受物理学启发的结构归因方法，用于分析图结构数据中的梯度传播，特别适用于网络物理物联网系统。通过将物理模型与图神经网络相结合，该方法能够更准确地识别关键节点和边，提升系统的可解释性和鲁棒性。这项工作为复杂系统的诊断和优化提供了新的理论工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:13:33.604433+00:00"
+}
