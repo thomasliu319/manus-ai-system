@@ -181,8 +181,11 @@ def supervisor(task: str, max_retries: int = 3) -> dict[str, Any]:
 if __name__ == "__main__":
     import argparse
     import textwrap
+    from importlib.metadata import version as _pkg_version
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+
+    print(f"langgraph {_pkg_version('langgraph')} 安装成功")
 
     parser = argparse.ArgumentParser(
         description="Supervisor 监督模式测试",
@@ -190,7 +193,7 @@ if __name__ == "__main__":
         epilog=textwrap.dedent("""\
         示例:
           python3 patterns/supervisor.py "分析 2026 年 AI Agent 框架的技术趋势"
-          python3 patterns/supervisor.py --task "评测 LangChain 与 Dify 的差异"
+          python3 patterns/supervisor.py "评测 LangChain 与 Dify 的差异"
           python3 patterns/supervisor.py --verbose
         """),
     )
