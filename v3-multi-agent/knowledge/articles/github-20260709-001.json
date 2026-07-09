@@ -1,0 +1,20 @@
+{
+  "id": "github-20260709-001",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "raw_description": "The agent that grows with you",
+  "stars": 212037,
+  "collected_at": "2026-07-09T15:18:37.127828+00:00",
+  "summary": "NousResearch 的 Hermes Agent 是一款基于长期记忆与上下文学习的自适应智能体架构，通过持续的用户交互积累经验并优化决策策略，其核心采用内部状态机与工具调用链实现复杂任务的自主规划与执行，区别于传统静态 Agent 框架的增量学习机制使其具备个性化成长能力。",
+  "relevance": 0.9,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "category": "agent-framework",
+  "status": "revised",
+  "analyzed_at": "2026-07-09T15:18:44.436319+00:00",
+  "revised_at": "2026-07-09T15:19:45.667539+00:00"
+}

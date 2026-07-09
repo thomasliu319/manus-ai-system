@@ -1,0 +1,24 @@
+{
+  "id": "github-20260709-002",
+  "title": "langgenius/dify",
+  "source": "github",
+  "source_url": "https://github.com/langgenius/dify",
+  "raw_description": "Production-ready platform for agentic workflow development.",
+  "stars": 148302,
+  "collected_at": "2026-07-09T15:18:37.127840+00:00",
+  "summary": "Dify 是一个面向生产环境的开源平台，专注于智能代理工作流的开发与部署。它提供可视化编排、RAG 管道和模型管理，帮助开发者快速构建 AI 应用。其核心设计围绕声明式流程引擎与可插拔的模型后端，支持 ReAct、Plan-and-Execute 等多代理模式，并通过异步任务队列实现长流程的可观测与重试。相比 LangChain 的编程式组合，Dify 的低代码范式降低了原型与生产的鸿沟，但在复杂控制流与自定义组件扩展上仍存在权衡。内置的 RAG 管道采用混合检索与重排序策略，并融入知识库版本管理与反馈微调闭环，形成端到端的迭代能力。",
+  "relevance": 0.95,
+  "tags": [
+    "agent",
+    "rag",
+    "multi-agent",
+    "tool-use",
+    "llm",
+    "prompt-engineering",
+    "deployment"
+  ],
+  "category": "agent-framework",
+  "status": "revised",
+  "analyzed_at": "2026-07-09T15:19:02.040073+00:00",
+  "revised_at": "2026-07-09T15:20:00.644357+00:00"
+}

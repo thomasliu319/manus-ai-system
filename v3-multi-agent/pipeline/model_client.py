@@ -23,9 +23,11 @@ logger = logging.getLogger(__name__)
 
 # ── 数据结构 ──────────────────────────────────────────────────────────────
 
+
 @dataclass
 class Usage:
     """Token 用量统计"""
+
     prompt_tokens: int = 0
     completion_tokens: int = 0
 
@@ -44,6 +46,7 @@ class Usage:
 @dataclass
 class LLMResponse:
     """统一的 LLM 响应格式"""
+
     content: str
     usage: Usage = field(default_factory=Usage)
 
@@ -76,6 +79,7 @@ def estimate_cost(model: str, usage: Usage) -> float:
 
 
 # ── Provider 抽象基类 ────────────────────────────────────────────────────
+
 
 class LLMProvider(ABC):
     """LLM 提供商抽象基类"""
@@ -194,9 +198,7 @@ def create_provider(provider_name: str | None = None) -> LLMProvider:
     config = PROVIDER_CONFIG[name]
     api_key = os.getenv(config["api_key_env"], "")
     if not api_key:
-        raise RuntimeError(
-            f"缺少 API Key，请设置环境变量: {config['api_key_env']}"
-        )
+        raise RuntimeError(f"缺少 API Key，请设置环境变量: {config['api_key_env']}")
 
     base_url = os.getenv(config["base_url_env"], config["default_base_url"])
     model = os.getenv(config["model_env"], config["default_model"])
@@ -206,6 +208,7 @@ def create_provider(provider_name: str | None = None) -> LLMProvider:
 
 
 # ── 带重试的调用封装 ──────────────────────────────────────────────────────
+
 
 def chat_with_retry(
     provider: LLMProvider,
@@ -248,10 +251,13 @@ def chat_with_retry(
         except (httpx.HTTPStatusError, httpx.ConnectError, httpx.TimeoutException) as e:
             last_error = e
             if attempt < max_retries - 1:
-                wait_time = backoff_base ** attempt
+                wait_time = backoff_base**attempt
                 logger.warning(
                     "LLM 调用失败（第 %d/%d 次），%0.1f 秒后重试: %s",
-                    attempt + 1, max_retries, wait_time, str(e),
+                    attempt + 1,
+                    max_retries,
+                    wait_time,
+                    str(e),
                 )
                 time.sleep(wait_time)
             else:
@@ -262,11 +268,13 @@ def chat_with_retry(
 
 # ── 便捷函数 ─────────────────────────────────────────────────────────────
 
+
 def chat(
     prompt: str,
     system: str = "你是一个 AI 技术分析助手。",
     provider: str | None = None,
     max_retries: int = 3,
+    temperature: float = 0.7,
 ) -> dict[str, Any]:
     """
     便捷调用 LLM，返回包含 content 和 usage 的字典。
@@ -276,6 +284,7 @@ def chat(
         system: 系统提示词
         provider: 提供商名称（deepseek/qwen/openai），默认读环境变量
         max_retries: 最大重试次数
+        temperature: 采样温度 (0-2)
 
     Returns:
         {"content": str, "usage": {"prompt_tokens": int, "completion_tokens": int, ...}}
@@ -288,7 +297,9 @@ def chat(
     provider_name = provider or os.getenv("LLM_PROVIDER", "deepseek")
     llm = create_provider(provider_name)
     try:
-        response = chat_with_retry(llm, messages, max_retries=max_retries)
+        response = chat_with_retry(
+            llm, messages, temperature=temperature, max_retries=max_retries
+        )
         result = response.to_dict()
         cost = estimate_cost(llm.model, response.usage)
         logger.info(

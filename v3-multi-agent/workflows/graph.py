@@ -2,9 +2,9 @@
 workflows/graph.py — LangGraph 工作流组装
 
 拓扑:
-  START → collect → analyze → organize → review ─→ save → END
-                                    ↑                  │
-                                    └──────────────────┘ (review_passed=False)
+  START → collect → analyze → review → organize ─(passed)→ save → END
+                                            ↑         │
+                                            └─────────┘ (review_passed=False)
 
 使用真实的 LangGraph API: StateGraph / START / END / add_conditional_edges
 """
@@ -25,23 +25,25 @@ from workflows.nodes import (
     analyze_node,
     collect_node,
     organize_node,
-    review_node,
     save_node,
 )
 from workflows.state import KBState
+from workflows.reviewer import review_node
 
 logger = logging.getLogger(__name__)
 
 # ── 路由器 ────────────────────────────────────────────────────────────────
 
-def _review_router(state: KBState) -> str:
-    """条件路由：审核通过 → save，未通过 → organize 重新修正。"""
+
+def _organize_router(state: KBState) -> str:
+    """整理后路由：审核通过 → save，未通过 → review 重新审核。"""
     if state.get("review_passed"):
         return "save"
-    return "organize"
+    return "review"
 
 
 # ── 图构建 ────────────────────────────────────────────────────────────────
+
 
 def build_graph() -> Any:
     """
@@ -62,16 +64,16 @@ def build_graph() -> Any:
     # 线性边
     builder.add_edge(START, "collect")
     builder.add_edge("collect", "analyze")
-    builder.add_edge("analyze", "organize")
-    builder.add_edge("organize", "review")
+    builder.add_edge("analyze", "review")
+    builder.add_edge("review", "organize")
 
-    # 条件边：review 之后的分支
+    # 条件边：organize 之后的分支
     builder.add_conditional_edges(
-        "review",
-        _review_router,
+        "organize",
+        _organize_router,
         {
             "save": "save",
-            "organize": "organize",
+            "review": "review",
         },
     )
 
@@ -82,6 +84,7 @@ def build_graph() -> Any:
 
 
 # ── 初始状态 ──────────────────────────────────────────────────────────────
+
 
 def make_initial_state() -> KBState:
     """构建初始工作流状态。"""
@@ -110,7 +113,7 @@ if __name__ == "__main__":
     initial = make_initial_state()
 
     print("=" * 60)
-    print("LangGraph 工作流 — 采集 → 分析 → 整理 → 审核 → 保存")
+    print("LangGraph 工作流 — 采集 → 分析 → 审核 → 整理 → 保存")
     print("=" * 60)
 
     # invoke 执行全流水线（节点内部 print() 提供实时输出）
@@ -122,8 +125,12 @@ if __name__ == "__main__":
     print(f"  采集: {len(final.get('sources', []))} 条")
     print(f"  分析: {len(final.get('analyses', []))} 条")
     print(f"  整理: {len(final.get('articles', []))} 条")
-    print(f"  审核: {'通过' if final.get('review_passed') else '未通过'}"
-          f"  (轮次: {final.get('iteration', 0)})")
-    print(f"  Token: {tracker.get('total_prompt_tokens', 0)} prompt"
-          f" + {tracker.get('total_completion_tokens', 0)} completion")
+    print(
+        f"  审核: {'通过' if final.get('review_passed') else '未通过'}"
+        f"  (轮次: {final.get('iteration', 0)})"
+    )
+    print(
+        f"  Token: {tracker.get('total_prompt_tokens', 0)} prompt"
+        f" + {tracker.get('total_completion_tokens', 0)} completion"
+    )
     print(f"  成本: ${tracker.get('estimated_cost_usd', 0):.6f}")

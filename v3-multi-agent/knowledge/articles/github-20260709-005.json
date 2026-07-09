@@ -1,0 +1,22 @@
+{
+  "id": "github-20260709-005",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "raw_description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "stars": 103907,
+  "collected_at": "2026-07-09T15:18:37.127850+00:00",
+  "summary": "Browser-use 是一个基于 Playwright 的 Python 框架，为 AI 代理提供了浏览器自动化能力。它通过将网页元素抽象为 AI 可理解的 actions（如点击、输入、滚动），并提供 DOM 解析、元素选择器生成、反检测机制，模拟真实用户操作。框架采用异步架构，支持与 LLM 集成进行决策，适用于数据抓取、自动化测试、RPA 等复杂 Web 自动化场景。",
+  "relevance": 0.95,
+  "tags": [
+    "agent",
+    "tool-use",
+    "browser-automation",
+    "playwright",
+    "web-scraping"
+  ],
+  "category": "agent-framework",
+  "status": "revised",
+  "analyzed_at": "2026-07-09T15:19:19.424309+00:00",
+  "revised_at": "2026-07-09T15:20:55.669022+00:00"
+}

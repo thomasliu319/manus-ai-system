@@ -1,0 +1,22 @@
+{
+  "id": "github-20260709-003",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "raw_description": "The agent engineering platform.",
+  "stars": 141387,
+  "collected_at": "2026-07-09T15:18:37.127844+00:00",
+  "summary": "LangChain 是面向智能代理工程的模块化框架，核心设计围绕“链式组合（Composition）”展开。它通过 LCEL（LangChain 表达式语言）实现声明式的组件编排，将 LLM、工具、记忆、检索器抽象为可组合的 Runnable 单元，并借助回调系统统一追踪与调试。架构上，LangChain 分离了模型 I/O、连接、代理逻辑与部署层，支持 OpenAI 函数调用、自主代理循环及多代理协作模式。相较于 Haystack 的 Pipeline 编排或 LlamaIndex 的数据索引优先，LangChain 更强调将任意 LLM 能力动态组合为可执行的代理工作流，并通过 LangSmith 提供全链路可观测性，适合需要灵活控制与复杂推理链的 AI 应用开发。",
+  "relevance": 0.96,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent",
+    "deployment",
+    "llm"
+  ],
+  "category": "agent-framework",
+  "status": "revised",
+  "analyzed_at": "2026-07-09T15:19:07.988031+00:00",
+  "revised_at": "2026-07-09T15:20:19.784862+00:00"
+}
