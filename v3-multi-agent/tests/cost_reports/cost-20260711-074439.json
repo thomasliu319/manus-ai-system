@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "total_prompt_tokens": 6300000,
+    "total_completion_tokens": 1900000,
+    "total_cost_yuan": 10.1,
+    "budget_yuan": 5.0,
+    "usage_ratio": 2.02,
+    "call_count": 4
+  },
+  "by_node": {
+    "analyze": {
+      "prompt": 4500000,
+      "completion": 1200000,
+      "cost": 6.9,
+      "count": 2
+    },
+    "review": {
+      "prompt": 300000,
+      "completion": 100000,
+      "cost": 0.5,
+      "count": 1
+    },
+    "organize": {
+      "prompt": 1500000,
+      "completion": 600000,
+      "cost": 2.7,
+      "count": 1
+    }
+  },
+  "generated_at": "2026-07-11T07:44:39.266440+00:00"
+}

@@ -1,0 +1,385 @@
+{
+  "timestamp": "2026-07-11-070428",
+  "iterations_used": 3,
+  "last_feedback": "整体摘要质量偏低，主要受条目003（langchain）影响，其摘要未经生成，直接复制原始描述，完全无法传达核心信息；条目001、005等技术深度不足，仅停留在表面功能描述，缺乏对架构、模型能力或实现原理的剖析；原创性方面，分析多为泛化介绍，未突显项目独特设计或对比业界方案；格式上，条目003分类为other且标签单一（仅llm），未体现Agent框架属性，需修正。建议：重点改进条目003的摘要生成流程，丰富技术分析维度，统一分类与标签体系。",
+  "analyses": [
+    {
+      "id": "github-20260711-001",
+      "title": "NousResearch/hermes-agent",
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "raw_description": "The agent that grows with you",
+      "stars": 212904,
+      "collected_at": "2026-07-11T06:59:26.372384+00:00",
+      "summary": "NousResearch开发的Hermes Agent，是一个能够随着用户使用而不断进化的智能代理，旨在提供个性化、可成长的AI助手体验。该项目基于大语言模型，可能融合了工具调用与长期记忆能力，以实现动态适应。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use",
+        "llm"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:59:31.663946+00:00"
+    },
+    {
+      "id": "github-20260711-002",
+      "title": "langgenius/dify",
+      "source": "github",
+      "source_url": "https://github.com/langgenius/dify",
+      "raw_description": "Production-ready platform for agentic workflow development.",
+      "stars": 148466,
+      "collected_at": "2026-07-11T06:59:26.372397+00:00",
+      "summary": "Dify是一个生产就绪的大语言模型应用开发平台，专注于Agent工作流的可视化编排与管理。它集成了RAG、工具调用与提示工程，支持快速构建、评估和部署复杂的AI应用。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "rag",
+        "prompt-engineering",
+        "tool-use",
+        "deployment"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:59:43.804689+00:00"
+    },
+    {
+      "id": "github-20260711-003",
+      "title": "langchain-ai/langchain",
+      "source": "github",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "raw_description": "The agent engineering platform.",
+      "stars": 141492,
+      "collected_at": "2026-07-11T06:59:26.372402+00:00",
+      "summary": "The agent engineering platform.",
+      "relevance": 0.3,
+      "tags": [
+        "llm"
+      ],
+      "category": "other",
+      "status": "analysis_failed",
+      "analyzed_at": "2026-07-11T06:59:48.479785+00:00"
+    },
+    {
+      "id": "github-20260711-004",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "raw_description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 117700,
+      "collected_at": "2026-07-11T06:59:26.372406+00:00",
+      "summary": "该项目提供了100多个可运行的AI Agent与RAG应用集合，支持克隆、定制和快速部署，覆盖多种LLM应用场景。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:59:58.654833+00:00"
+    },
+    {
+      "id": "github-20260711-005",
+      "title": "browser-use/browser-use",
+      "source": "github",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "raw_description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 104171,
+      "collected_at": "2026-07-11T06:59:26.372410+00:00",
+      "summary": "browser-use 是一个为 AI 代理设计的浏览器自动化工具，使代理能够像人类一样访问网页并完成在线任务。它简化了网站交互的流程，方便开发者构建基于网页的 AI 应用。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:09.680485+00:00"
+    },
+    {
+      "id": "github-20260711-006",
+      "title": "infiniflow/ragflow",
+      "source": "github",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "raw_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 84787,
+      "collected_at": "2026-07-11T06:59:26.372414+00:00",
+      "summary": "RAGFlow是一个领先的开源检索增强生成（RAG）引擎，将前沿RAG技术与Agent能力相融合，为大型语言模型构建高质量上下文层。",
+      "relevance": 0.95,
+      "tags": [
+        "rag",
+        "agent"
+      ],
+      "category": "rag-engine",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:18.923961+00:00"
+    },
+    {
+      "id": "github-20260711-007",
+      "title": "OpenHands/OpenHands",
+      "source": "github",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "raw_description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 80418,
+      "collected_at": "2026-07-11T06:59:26.372417+00:00",
+      "summary": "OpenHands 是一个 AI 驱动的开发工具，旨在协助程序员编写代码、调试和自动化任务。它结合了大型语言模型的代码生成能力和与开发环境的集成，提供智能化的开发体验。",
+      "relevance": 0.9,
+      "tags": [
+        "code-generation",
+        "tool-use"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:27.272680+00:00"
+    },
+    {
+      "id": "github-20260711-008",
+      "title": "DietrichGebert/ponytail",
+      "source": "github",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "raw_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 80311,
+      "collected_at": "2026-07-11T06:59:26.372424+00:00",
+      "summary": "该项目旨在让AI代理模仿最懒惰的高级开发人员思维，认为不写代码才是最佳代码。它可能通过提示工程或行为策略，使AI代理更倾向于复用现有代码、简化任务或避免过度工程化。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "code-generation",
+        "prompt-engineering"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:33.794556+00:00"
+    },
+    {
+      "id": "github-20260711-009",
+      "title": "bytedance/deer-flow",
+      "source": "github",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "raw_description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 76749,
+      "collected_at": "2026-07-11T06:59:26.372427+00:00",
+      "summary": "字节跳动开源的长期超级代理框架DeerFlow，通过沙箱、记忆、工具、技能、子代理和消息网关等组件，能够自主研究、编码和创建，处理从几分钟到几小时的复杂任务。",
+      "relevance": 1.0,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "code-generation"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:40.827659+00:00"
+    },
+    {
+      "id": "github-20260711-010",
+      "title": "hiyouga/LlamaFactory",
+      "source": "github",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "raw_description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73157,
+      "collected_at": "2026-07-11T06:59:26.372431+00:00",
+      "summary": "LlamaFactory 是一个统一高效的大模型微调框架，支持 100 余种 LLM 和 VLM 的微调，发表于 ACL 2024。它提供便捷的 Web 界面和命令行工具，集成多种微调方法。",
+      "relevance": 0.95,
+      "tags": [
+        "fine-tuning",
+        "llm"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:47.145053+00:00"
+    },
+    {
+      "id": "github-20260711-011",
+      "title": "earendil-works/pi",
+      "source": "github",
+      "source_url": "https://github.com/earendil-works/pi",
+      "raw_description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 69553,
+      "collected_at": "2026-07-11T06:59:26.372435+00:00",
+      "summary": "一个 AI 代理工具包，提供统一的 LLM API、代理循环、终端用户界面和编码代理命令行工具，简化 AI 代理的构建与运行。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation",
+        "llm"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:53.266123+00:00"
+    },
+    {
+      "id": "github-20260711-012",
+      "title": "mem0ai/mem0",
+      "source": "github",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "raw_description": "Universal memory layer for AI Agents",
+      "stars": 60588,
+      "collected_at": "2026-07-11T06:59:26.372439+00:00",
+      "summary": "Mem0是一个为AI Agent设计的通用记忆层，提供长期记忆管理能力，支持存储、检索和利用历史交互信息，以增强智能体的上下文感知与个性化决策。",
+      "relevance": 0.92,
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:00:59.592635+00:00"
+    },
+    {
+      "id": "github-20260711-013",
+      "title": "headroomlabs-ai/headroom",
+      "source": "github",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "raw_description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 58460,
+      "collected_at": "2026-07-11T06:59:26.372443+00:00",
+      "summary": "压缩工具输出、日志、文件及RAG块，在进入LLM前减少60-95%的token消耗，同时保持回答质量，提供库、代理和MCP服务器。",
+      "relevance": 0.9,
+      "tags": [
+        "rag",
+        "llm",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:06.404951+00:00"
+    },
+    {
+      "id": "github-20260711-014",
+      "title": "aaif-goose/goose",
+      "source": "github",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "raw_description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51058,
+      "collected_at": "2026-07-11T06:59:26.372447+00:00",
+      "summary": "goose是一个开源的、可扩展的AI代理，不仅能提供代码建议，还能安装、执行、编辑和测试任何LLM。它超越了传统代码补全工具，提供了一个通用的代理框架来与各种大语言模型协作。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "tool-use",
+        "code-generation"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:16.053101+00:00"
+    },
+    {
+      "id": "github-20260711-015",
+      "title": "CherryHQ/cherry-studio",
+      "source": "github",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "raw_description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48428,
+      "collected_at": "2026-07-11T06:59:26.372451+00:00",
+      "summary": "Cherry Studio 是一个 AI 生产力工作室，提供智能聊天、自主代理和 300 多个内置助手，实现对前沿大语言模型的统一访问。",
+      "relevance": 0.92,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "llm",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:23.381197+00:00"
+    },
+    {
+      "id": "github-20260711-016",
+      "title": "jeecgboot/JeecgBoot",
+      "source": "github",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "raw_description": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47008,
+      "collected_at": "2026-07-11T06:59:26.372454+00:00",
+      "summary": "JeecgBoot 是一个 AI 低代码平台，通过 AI Skills 实现一句话生成系统、模块、流程和报表，内置 AI 聊天、知识库、流程编排和 MCP 插件，兼容主流大模型，旨在通过自动化减少 Java 项目 90% 的重复工作。",
+      "relevance": 0.95,
+      "tags": [
+        "code-generation",
+        "llm",
+        "mcp",
+        "agent"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:28.363910+00:00"
+    },
+    {
+      "id": "github-20260711-017",
+      "title": "zhayujie/CowAgent",
+      "source": "github",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "raw_description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45917,
+      "collected_at": "2026-07-11T06:59:26.372458+00:00",
+      "summary": "CowAgent 是一款开源 AI 助手与 Agent 框架，支持任务规划、工具调用和技能执行，通过记忆与知识库实现自我进化，兼容多种模型与交互通道，提供轻量一行安装方案。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:38.644051+00:00"
+    },
+    {
+      "id": "github-20260711-018",
+      "title": "HKUDS/nanobot",
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "raw_description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45236,
+      "collected_at": "2026-07-11T06:59:26.372461+00:00",
+      "summary": "HKUDS/nanobot 是一个轻量级开源 AI 代理，旨在集成工具、聊天和工作流，提供灵活的智能助手功能。该代理设计简洁，易于扩展，适用于多种应用场景。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:43.505834+00:00"
+    },
+    {
+      "id": "github-20260711-019",
+      "title": "langchain-ai/langgraph",
+      "source": "github",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "raw_description": "Build resilient agents.",
+      "stars": 37008,
+      "collected_at": "2026-07-11T06:59:26.372465+00:00",
+      "summary": "LangGraph 是 LangChain 推出的用于构建弹性、有状态、多智能体系统的框架，支持工具调用和人机协作。它通过图结构定义智能体工作流，实现复杂决策与任务编排。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "deployment"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:48.394912+00:00"
+    },
+    {
+      "id": "github-20260711-020",
+      "title": "patchy631/ai-engineering-hub",
+      "source": "github",
+      "source_url": "https://github.com/patchy631/ai-engineering-hub",
+      "raw_description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "stars": 36435,
+      "collected_at": "2026-07-11T06:59:26.372468+00:00",
+      "summary": "该仓库提供了一系列深入教程，涵盖大型语言模型(LLM)、检索增强生成(RAG)以及真实世界AI智能体(Agent)应用的开发实践。内容涉及从理论到实战，帮助开发者构建和部署智能系统。",
+      "relevance": 0.9,
+      "tags": [
+        "llm",
+        "rag",
+        "agent"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T07:01:59.570474+00:00"
+    }
+  ]
+}
