@@ -1,6 +1,13 @@
 """
 workflows/state.py — LangGraph 工作流共享状态定义
 
+数据流向（V3 完整 · 7 节点）：
+    plan → sources → analyses → review ─[pass]→ organize → END
+                                    ↓
+                                  revise → review（循环）
+                                    ↓[>max]
+                                  human_flag → END
+
 「报告式通信」原则：
   每个字段都是下游节点可直接消费的结构化摘要，不包含原始日志、API 响应、
   中间计算碎片或调试信息。上游产出什么格式，下游就按什么格式消费。
@@ -19,6 +26,20 @@ class KBState(TypedDict):
       - 复数名词表示可迭代的同类条目集合（sources / analyses / articles）
       - 布尔字段以 _passed 结尾表示审核/校验结果
       - 追踪类字段以 _tracker 结尾表示累积统计
+    """
+
+    # ── 策略层 ──────────────────────────────────────────────────────────
+    plan: dict
+    """
+    Planner 输出的执行策略，下游节点通过 state["plan"] 读取。
+    格式：
+      {
+        "depth": "comprehensive",               # brief | standard | comprehensive
+        "focus": ["agent-framework", "llm"],    # 关注领域
+        "tags": ["agent", "multi-agent"],       # 推荐标签
+        "categories": ["agent-framework"],      # 推荐分类
+        "reason": "当期热点是 Agent 框架..."
+      }
     """
 
     # ── 采集层 ──────────────────────────────────────────────────────────

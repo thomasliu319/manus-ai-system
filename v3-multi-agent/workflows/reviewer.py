@@ -73,6 +73,8 @@ def review_node(state: KBState) -> dict[str, Any]:
     analyses: list[dict[str, Any]] = state.get("analyses", [])
     iteration = state.get("iteration", 0)
     tracker: dict[str, Any] = state.get("cost_tracker", {})
+    plan = state.get("plan", {}) or {}
+    max_iter = int(plan.get("max_iterations", 3))
 
     if not analyses:
         print("[ReviewNode] 无数据可审核，通过")
@@ -83,8 +85,8 @@ def review_node(state: KBState) -> dict[str, Any]:
             "cost_tracker": tracker,
         }
 
-    if iteration >= 2:
-        print(f"[ReviewNode] iteration={iteration} >= 2，强制通过")
+    if iteration >= max_iter:
+        logger.info("[ReviewNode] iteration=%d >= max_iter=%d，强制通过", iteration, max_iter)
         return {
             "review_passed": True,
             "review_feedback": "",

@@ -1,0 +1,198 @@
+{
+  "timestamp": "2026-07-11-065453",
+  "iterations_used": 2,
+  "last_feedback": "总体技术深度不足，摘要多为项目介绍而非技术分析，缺乏对核心技术原理、实现机制或创新点的深入洞察。建议补充各框架的底层架构、关键技术（如记忆管理、推理链实现）及差异化分析，提升原创性和信息密度。",
+  "analyses": [
+    {
+      "id": "github-20260711-001",
+      "title": "NousResearch/hermes-agent",
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "raw_description": "The agent that grows with you",
+      "stars": 212903,
+      "collected_at": "2026-07-11T06:52:16.596742+00:00",
+      "summary": "这是一个自适应智能体框架，能够根据用户需求动态扩展能力，支持多种工具集成和自主决策，强调与用户共同成长的体验。",
+      "relevance": 0.92,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:52:21.436896+00:00"
+    },
+    {
+      "id": "github-20260711-002",
+      "title": "langgenius/dify",
+      "source": "github",
+      "source_url": "https://github.com/langgenius/dify",
+      "raw_description": "Production-ready platform for agentic workflow development.",
+      "stars": 148464,
+      "collected_at": "2026-07-11T06:52:16.596760+00:00",
+      "summary": "Dify 是一个开源 LLM 应用开发平台，提供可视化工作流编排，支持构建包含 RAG、工具调用和代理能力的生产级智能应用。它集成了模型管理、Prompt 工程和可观测性，帮助开发者快速从原型走向部署。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "rag",
+        "llm",
+        "tool-use",
+        "deployment"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:52:34.094343+00:00"
+    },
+    {
+      "id": "github-20260711-003",
+      "title": "langchain-ai/langchain",
+      "source": "github",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "raw_description": "The agent engineering platform.",
+      "stars": 141492,
+      "collected_at": "2026-07-11T06:52:16.596765+00:00",
+      "summary": "LangChain是一个用于构建智能体(Agent)的开源平台，提供工具调用、记忆管理和推理链能力。它支持多智能体协作，简化了基于LLM的复杂应用开发。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:52:42.160152+00:00"
+    },
+    {
+      "id": "github-20260711-004",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "raw_description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 117700,
+      "collected_at": "2026-07-11T06:52:16.596768+00:00",
+      "summary": "该GitHub仓库提供了100多个可运行的AI代理和RAG应用，用户可以直接克隆、定制并快速部署，适合学习和二次开发。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:52:48.094741+00:00"
+    },
+    {
+      "id": "github-20260711-005",
+      "title": "browser-use/browser-use",
+      "source": "github",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "raw_description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 104171,
+      "collected_at": "2026-07-11T06:52:16.596772+00:00",
+      "summary": "browser-use 是一个用于 AI 代理的浏览器自动化工具，使代理能够访问和操作网站，轻松实现在线任务自动化。它封装了浏览器交互，为 AI 提供了与网页内容交互的标准化接口。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:52:56.551699+00:00"
+    },
+    {
+      "id": "github-20260711-006",
+      "title": "infiniflow/ragflow",
+      "source": "github",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "raw_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 84786,
+      "collected_at": "2026-07-11T06:52:16.596775+00:00",
+      "summary": "RAGFlow 是一个领先的开源 RAG 引擎，融合了先进的检索增强生成与智能体能力，为 LLM 提供高质量的上下文层。它支持构建复杂的 AI 应用，结合文档解析、向量检索和大模型交互。",
+      "relevance": 0.95,
+      "tags": [
+        "rag",
+        "agent",
+        "llm"
+      ],
+      "category": "rag-engine",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:53:03.907658+00:00"
+    },
+    {
+      "id": "github-20260711-007",
+      "title": "OpenHands/OpenHands",
+      "source": "github",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "raw_description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 80418,
+      "collected_at": "2026-07-11T06:52:16.596779+00:00",
+      "summary": "OpenHands是一个AI驱动的开发框架，旨在利用人工智能代理辅助软件开发流程，可能涉及代码生成、自动化任务和智能协助。项目通过集成AI模型实现开发效率提升和自主编程能力。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "code-generation",
+        "developer-tool"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:53:09.994398+00:00"
+    },
+    {
+      "id": "github-20260711-008",
+      "title": "DietrichGebert/ponytail",
+      "source": "github",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "raw_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 80307,
+      "collected_at": "2026-07-11T06:52:16.596782+00:00",
+      "summary": "该项目旨在让AI代理模仿最懒惰的高级开发者的思维方式，尽可能避免编写不必要的代码，以提升代码生成效率。通过特定的策略或提示，优化AI代理的决策，减少冗余输出。",
+      "relevance": 0.8,
+      "tags": [
+        "agent",
+        "code-generation",
+        "prompt-engineering"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:53:20.591442+00:00"
+    },
+    {
+      "id": "github-20260711-009",
+      "title": "bytedance/deer-flow",
+      "source": "github",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "raw_description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 76749,
+      "collected_at": "2026-07-11T06:52:16.596786+00:00",
+      "summary": "字节跳动开源的长期超级代理框架，通过沙盒、记忆、工具、技能、子代理和消息网关，支持处理从分钟到小时级别的复杂任务，具备研究、编码和创造能力。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "code-generation"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:53:27.743649+00:00"
+    },
+    {
+      "id": "github-20260711-010",
+      "title": "hiyouga/LlamaFactory",
+      "source": "github",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "raw_description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73157,
+      "collected_at": "2026-07-11T06:52:16.596789+00:00",
+      "summary": "LlamaFactory是一个统一的大语言模型和视觉语言模型高效微调框架，支持100多种模型，集成多种微调方法，被ACL 2024收录。它简化了模型微调的训练流程和配置。",
+      "relevance": 0.95,
+      "tags": [
+        "fine-tuning",
+        "llm",
+        "vision"
+      ],
+      "category": "developer-tool",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:53:35.158240+00:00"
+    }
+  ]
+}

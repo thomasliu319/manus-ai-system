@@ -111,8 +111,11 @@ def collect_node(state: KBState) -> dict[str, Any]:
     """
     print("[CollectNode] 开始采集 GitHub 仓库...")
 
+    plan = state.get("plan", {}) or {}
+    per_source_limit = int(plan.get("per_source_limit", 5))
+
     query = "ai+agent+llm+stars:>100+pushed:>2026-06-01"
-    url = f"{_GITHUB_SEARCH_URL}?q={query}&sort=stars&order=desc&per_page=5"
+    url = f"{_GITHUB_SEARCH_URL}?q={query}&sort=stars&order=desc&per_page={per_source_limit}"
 
     try:
         req = urllib.request.Request(url, headers=_GITHUB_HEADERS)
@@ -211,8 +214,10 @@ def organize_node(state: KBState) -> dict[str, Any]:
     feedback = state.get("review_feedback", "")
     tracker: dict[str, Any] = state.get("cost_tracker", {})
 
-    # 1. 过滤低分（relevance < 0.6）
-    filtered = [a for a in analyses if a.get("relevance", 0) >= 0.6]
+    # 1. 过滤低分
+    plan = state.get("plan", {}) or {}
+    relevance_threshold = float(plan.get("relevance_threshold", 0.6))
+    filtered = [a for a in analyses if a.get("relevance", 0) >= relevance_threshold]
     dropped = len(analyses) - len(filtered)
     if dropped:
         print(f"  ␡ 过滤低分: {dropped} 条")

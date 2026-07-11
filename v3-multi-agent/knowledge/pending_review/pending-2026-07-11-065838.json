@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-07-11-065838",
+  "iterations_used": 1,
+  "last_feedback": "整体摘要能准确传递项目信息，但技术深度普遍不足，多为功能介绍而非原理性剖析，建议在分析中补充核心架构、实现要点或差异化技术亮点。条目 4（awesome-llm-apps）的分类 'other' 过于宽泛，建议细化为 'resource-collection' 或 'awesome-list'。",
+  "analyses": [
+    {
+      "id": "github-20260711-001",
+      "title": "NousResearch/hermes-agent",
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "raw_description": "The agent that grows with you",
+      "stars": 212904,
+      "collected_at": "2026-07-11T06:57:35.486574+00:00",
+      "summary": "NousResearch 推出的 Hermes Agent，一个可生长的智能体框架，旨在与用户共同进化，提供灵活可扩展的代理能力。",
+      "relevance": 1.0,
+      "tags": [
+        "agent",
+        "tool-use",
+        "reasoning"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:57:39.996114+00:00"
+    },
+    {
+      "id": "github-20260711-002",
+      "title": "langgenius/dify",
+      "source": "github",
+      "source_url": "https://github.com/langgenius/dify",
+      "raw_description": "Production-ready platform for agentic workflow development.",
+      "stars": 148465,
+      "collected_at": "2026-07-11T06:57:35.486586+00:00",
+      "summary": "Dify 是一个生产级的智能体工作流开发平台，提供可视化编排、RAG 管道、模型管理和开箱即用的部署能力。它支持多种大语言模型，帮助开发者快速构建和运营复杂的 AI 应用。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "rag",
+        "multi-agent",
+        "deployment",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:57:54.150534+00:00"
+    },
+    {
+      "id": "github-20260711-003",
+      "title": "langchain-ai/langchain",
+      "source": "github",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "raw_description": "The agent engineering platform.",
+      "stars": 141492,
+      "collected_at": "2026-07-11T06:57:35.486591+00:00",
+      "summary": "LangChain 是一个用于构建代理和 LLM 应用的框架，提供工具集成、多代理协作和工作流编排功能。它简化了从原型到生产环境的代理工程流程。",
+      "relevance": 0.95,
+      "tags": [
+        "agent",
+        "multi-agent",
+        "tool-use",
+        "deployment"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:57:59.654258+00:00"
+    },
+    {
+      "id": "github-20260711-004",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "raw_description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 117700,
+      "collected_at": "2026-07-11T06:57:35.486595+00:00",
+      "summary": "该项目是一个精选的AI Agent和RAG应用合集，包含100多个可直接运行的项目，支持克隆、定制和快速部署。旨在为开发者提供丰富的动手实践资源，加速智能应用开发与交付。",
+      "relevance": 0.92,
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "category": "other",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:58:07.647703+00:00"
+    },
+    {
+      "id": "github-20260711-005",
+      "title": "browser-use/browser-use",
+      "source": "github",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "raw_description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 104171,
+      "collected_at": "2026-07-11T06:57:35.486598+00:00",
+      "summary": "浏览器使用工具，使AI代理能够访问和自动化网页任务。简化在线操作，让代理轻松与网站交互。",
+      "relevance": 0.9,
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "category": "agent-framework",
+      "status": "analyzed",
+      "analyzed_at": "2026-07-11T06:58:15.048647+00:00"
+    }
+  ]
+}

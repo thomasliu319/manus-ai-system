@@ -1,13 +1,12 @@
 """
 workflows/graph.py — LangGraph 工作流组装
 
-拓扑:
-  START → collect → analyze → review ─┬──(passed)──────────→ organize → save → END
-                                       ├──(not passed,<max)→ revise → review (loop)
-                                       └──(not passed,≥max)→ human_flag → END
+拓扑（7 节点完整版）:
+  START → plan → collect → analyze → review ─┬──(passed)──────────→ organize → save → END
+                                               ├──(not passed,<max)→ revise → review (loop)
+                                               └──(not passed,≥max)→ human_flag → END
 
-revise 节点接收 review_feedback 定向修改 analyses，循环回 review 重审。
-human_flag 节点在达到 max_iterations 上限时兜底退出。
+plan 节点根据目标采集量输出策略，下游通过 state["plan"] 读取 max_iterations 等参数。
 """
 
 
@@ -33,6 +32,7 @@ from workflows.state import KBState
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
 from workflows.human_flag import human_flag_node
+from workflows.planner import planner_node
 
 logger = logging.getLogger(__name__)
 
@@ -40,10 +40,14 @@ logger = logging.getLogger(__name__)
 
 
 def route_after_review(state: KBState) -> str:
-    """条件路由：审核后 3 条出口"""
+    """条件路由：审核后 3 条出口，max_iterations 从 plan 读取"""
+    plan = state.get("plan", {}) or {}
+    max_iter = int(plan.get("max_iterations", 3))
+    iteration = state.get("iteration", 0)
+
     if state.get("review_passed", False):
         return "organize"
-    if state.get("iteration", 0) >= 3:
+    if iteration >= max_iter:
         return "human_flag"
     return "revise"
 
@@ -61,6 +65,7 @@ def build_graph() -> Any:
     builder = StateGraph(KBState)
 
     # 注册节点
+    builder.add_node("plan", planner_node)
     builder.add_node("collect", collect_node)
     builder.add_node("analyze", analyze_node)
     builder.add_node("organize", organize_node)
@@ -69,8 +74,9 @@ def build_graph() -> Any:
     builder.add_node("human_flag", human_flag_node)
     builder.add_node("save", save_node)
 
-    # 线性边：采集 → 分析 → 审核
-    builder.add_edge(START, "collect")
+    # 入口：plan → collect → analyze → review
+    builder.add_edge(START, "plan")
+    builder.add_edge("plan", "collect")
     builder.add_edge("collect", "analyze")
     builder.add_edge("analyze", "review")
 
@@ -104,6 +110,7 @@ def build_graph() -> Any:
 def make_initial_state() -> KBState:
     """构建初始工作流状态。"""
     return KBState(
+        plan={},
         sources=[],
         analyses=[],
         articles=[],
