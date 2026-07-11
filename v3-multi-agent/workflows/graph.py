@@ -2,12 +2,14 @@
 workflows/graph.py — LangGraph 工作流组装
 
 拓扑:
-  START → collect → analyze → review → organize ─(passed)→ save → END
-                                            ↑         │
-                                            └─────────┘ (review_passed=False)
+  START → collect → analyze → review ─┬──(passed)──────────→ organize → save → END
+                                       ├──(not passed,<max)→ revise → review (loop)
+                                       └──(not passed,≥max)→ human_flag → END
 
-使用真实的 LangGraph API: StateGraph / START / END / add_conditional_edges
+revise 节点接收 review_feedback 定向修改 analyses，循环回 review 重审。
+human_flag 节点在达到 max_iterations 上限时兜底退出。
 """
+
 
 from __future__ import annotations
 
@@ -29,17 +31,21 @@ from workflows.nodes import (
 )
 from workflows.state import KBState
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
+from workflows.human_flag import human_flag_node
 
 logger = logging.getLogger(__name__)
 
 # ── 路由器 ────────────────────────────────────────────────────────────────
 
 
-def _organize_router(state: KBState) -> str:
-    """整理后路由：审核通过 → save，未通过 → review 重新审核。"""
-    if state.get("review_passed"):
-        return "save"
-    return "review"
+def route_after_review(state: KBState) -> str:
+    """条件路由：审核后 3 条出口"""
+    if state.get("review_passed", False):
+        return "organize"
+    if state.get("iteration", 0) >= 3:
+        return "human_flag"
+    return "revise"
 
 
 # ── 图构建 ────────────────────────────────────────────────────────────────
@@ -59,26 +65,35 @@ def build_graph() -> Any:
     builder.add_node("analyze", analyze_node)
     builder.add_node("organize", organize_node)
     builder.add_node("review", review_node)
+    builder.add_node("revise", revise_node)
+    builder.add_node("human_flag", human_flag_node)
     builder.add_node("save", save_node)
 
-    # 线性边
+    # 线性边：采集 → 分析 → 审核
     builder.add_edge(START, "collect")
     builder.add_edge("collect", "analyze")
     builder.add_edge("analyze", "review")
-    builder.add_edge("review", "organize")
 
-    # 条件边：organize 之后的分支
+    # 条件边：审核之后的分支
     builder.add_conditional_edges(
-        "organize",
-        _organize_router,
+        "review",
+        route_after_review,
         {
-            "save": "save",
-            "review": "review",
+            "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
 
-    # 终端边
+    # 修订后回审核，形成 review → revise 循环
+    builder.add_edge("revise", "review")
+
+    # 整理 → 保存 → 结束
+    builder.add_edge("organize", "save")
     builder.add_edge("save", END)
+
+    # 兜底退出
+    builder.add_edge("human_flag", END)
 
     return builder.compile()
 
@@ -95,6 +110,7 @@ def make_initial_state() -> KBState:
         review_feedback="",
         review_passed=False,
         iteration=0,
+        needs_human_review=False,
         cost_tracker={
             "total_prompt_tokens": 0,
             "total_completion_tokens": 0,

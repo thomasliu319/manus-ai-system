@@ -33,7 +33,7 @@ _WEIGHTS: dict[str, float] = {
 }
 
 _MAX_ANALYSES = 5
-_PASS_THRESHOLD = 7.0
+_PASS_THRESHOLD = 9.0  # 临时提高以触发 revise 分支
 
 _REVIEW_SYSTEM = "你是一个严格的知识质量审核专家。只返回 JSON，不要解释。"
 

@@ -90,9 +90,15 @@ class KBState(TypedDict):
 
     iteration: int
     """
-    当前审核循环次数（1-based）。
-    初始为 1，每次 Supervisor 不通过则 +1，上限 3。
-    达到上限后 workfllow 以当前结果强制终止，附 warning。
+    当前审核循环次数。
+    初始为 0，每次 review_node 被调用则 +1。
+    """
+
+    needs_human_review: bool
+    """
+    是否需要人工审核介入。
+    HumanFlag 节点在审核循环达到上限时设为 True，
+    表示当前 analyses 质量不达标，已写入 pending_review/ 等人工处理。
     """
 
     # ── 成本追踪 ────────────────────────────────────────────────────────
