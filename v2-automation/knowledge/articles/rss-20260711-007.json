@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-007",
+  "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07761",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:23:02.184044+00:00",
+  "collected_at": "2026-07-11T09:23:02.184044+00:00",
+  "summary": "该论文系统性地调查了大型语言模型（LLMs）在医学推理中的应用，重点分析了如何将临床需求与AI能力对齐。它涵盖了LLMs在诊断、治疗建议和临床决策支持中的推理能力，并讨论了当前面临的挑战和未来方向。这项研究为医疗AI领域提供了有价值的综述，有助于推动LLMs在临床实践中的安全有效应用。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:24:15.559958+00:00"
+}
