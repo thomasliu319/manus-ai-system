@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260712-005",
+  "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-12T09:47:10.948526+00:00",
+  "collected_at": "2026-07-12T09:47:10.948526+00:00",
+  "summary": "Google 在 Gemini API 中扩展了托管代理功能，支持后台任务和远程 MCP（模型上下文协议），提升了代理的自主性和集成能力。该更新使开发者能更灵活地构建和管理 AI 代理，适用于复杂工作流和跨系统协作。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:48:32.862464+00:00"
+}
