@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-016",
+  "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09175",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:55:58.581510+00:00",
+  "collected_at": "2026-07-13T10:55:58.581510+00:00",
+  "summary": "该论文提出了一种在分布偏移下确保长期智能体上下文演化可靠性的范围验证方法。通过限定验证范围，该方法有效应对了环境变化带来的不确定性，提升了智能体在复杂任务中的稳定性和可信度。其核心价值在于为长期自主决策的智能体系统提供了鲁棒性保障。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:57:13.781173+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-014",
+  "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09142",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:55:58.581501+00:00",
+  "collected_at": "2026-07-13T10:55:58.581501+00:00",
+  "summary": "MedRealMM 是一个面向中文在线医疗咨询场景的真实世界多模态基准数据集，旨在评估 AI 在多模态医疗对话中的表现。该基准填补了现有评估缺乏真实性和中文语境的空白，对推动多模态大模型在医疗领域的应用具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:57:13.781167+00:00"
+}
