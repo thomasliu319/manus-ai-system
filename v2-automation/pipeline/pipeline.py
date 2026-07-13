@@ -209,13 +209,11 @@ def step_analyze(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
                 # 解析 LLM 返回的 JSON
                 content = response.content.strip()
-                # 去除可能的 markdown 代码块标记
                 content = re.sub(r"^```json\s*", "", content)
                 content = re.sub(r"\s*```$", "", content)
 
                 analysis = json.loads(content)
 
-                # 合并原始数据和分析结果
                 enriched = {**item, **analysis}
                 enriched["status"] = "review"
                 enriched["analyzed_at"] = datetime.now(timezone.utc).isoformat()
@@ -223,7 +221,6 @@ def step_analyze(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
             except (json.JSONDecodeError, KeyError) as e:
                 logger.warning("分析结果解析失败: %s — %s", item["title"], e)
-                # 解析失败时使用默认值
                 enriched = {
                     **item,
                     "summary": item.get("raw_description", "")[:200],
@@ -231,6 +228,20 @@ def step_analyze(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                     "tags": ["llm"],
                     "audience": "intermediate",
                     "status": "draft",
+                    "analyzed_at": datetime.now(timezone.utc).isoformat(),
+                }
+                analyzed.append(enriched)
+
+            except Exception as e:
+                # spec: DEGRADATION — 所有重试耗尽后的终极降级
+                logger.warning("LLM 调用失败（重试耗尽）: %s — %s", item["title"], e)
+                enriched = {
+                    **item,
+                    "summary": item.get("raw_description", "")[:200],
+                    "score": 0,
+                    "tags": ["degraded"],
+                    "audience": "unknown",
+                    "status": "degraded",
                     "analyzed_at": datetime.now(timezone.utc).isoformat(),
                 }
                 analyzed.append(enriched)
@@ -276,7 +287,13 @@ def step_organize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 pass
 
     dedup_count = 0
+    degraded_count = 0
     for item in items:
+        # spec: DEGRADATION — degraded 条目跳过，不入库
+        if item.get("status") == "degraded":
+            degraded_count += 1
+            logger.warning("跳过 degraded 条目: %s", item.get("title", "?")[:50])
+            continue
         url = item.get("source_url", "")
         if url in seen_urls:
             dedup_count += 1
@@ -304,6 +321,7 @@ def step_organize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         }
         organized.append(article)
 
+    print(f"  跳过 degraded: {degraded_count} 条")
     print(f"  去重: 移除 {dedup_count} 条重复")
     print(f"  整理后: {len(organized)} 条")
 

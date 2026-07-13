@@ -7,12 +7,14 @@
 
 from __future__ import annotations
 
+import json
 import os
+import random
 import time
 import logging
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
-from typing import Any
+from typing import Any, Callable
 
 import httpx
 from dotenv import load_dotenv
@@ -73,6 +75,28 @@ def estimate_cost(model: str, usage: Usage) -> float:
         usage.prompt_tokens / 1000 * prices["input"]
         + usage.completion_tokens / 1000 * prices["output"]
     )
+
+
+# ── 异常注册表（spec: EXCEPTION-REGISTRY）─────────────────────────────────
+
+RETRYABLE_EXCEPTIONS: tuple[type[BaseException], ...] = (
+    httpx.TimeoutException,
+    httpx.ConnectError,
+    httpx.HTTPStatusError,
+)
+"""可重试异常的基类 tuple。
+openai.APITimeoutError / openai.APIConnectionError / openai.APIStatusError
+均继承自上述 httpx 基类，已被现有 except 块覆盖。
+"""
+
+
+def _is_retryable(exc: BaseException) -> bool:
+    """判断异常是否可重试。HTTP 5xx 可重试，4xx 不可。"""
+    if not isinstance(exc, RETRYABLE_EXCEPTIONS):
+        return False
+    if isinstance(exc, httpx.HTTPStatusError):
+        return exc.response.status_code >= 500
+    return True
 
 
 # ── Provider 抽象基类 ────────────────────────────────────────────────────
@@ -214,9 +238,10 @@ def chat_with_retry(
     max_tokens: int = 2000,
     max_retries: int = 3,
     backoff_base: float = 2.0,
+    cost_tracker: Callable[[str, int], None] | None = None,
 ) -> LLMResponse:
     """
-    带指数退避重试的聊天调用。
+    带指数退避重试的聊天调用（spec: RETRY-POLICY + COST-TRACKING）。
 
     Args:
         provider: LLM 提供商实例
@@ -225,6 +250,7 @@ def chat_with_retry(
         max_tokens: 最大生成 token 数
         max_retries: 最大重试次数
         backoff_base: 退避基数（秒）
+        cost_tracker: 可选回调，签名为 (status: str, tokens: int) -> None
 
     Returns:
         LLMResponse 统一响应
@@ -243,12 +269,30 @@ def chat_with_retry(
             )
             if attempt > 0:
                 logger.info("第 %d 次重试成功", attempt)
+            if cost_tracker:
+                cost_tracker("success", response.usage.total_tokens)
             return response
 
-        except (httpx.HTTPStatusError, httpx.ConnectError, httpx.TimeoutException) as e:
+        except (json.JSONDecodeError, KeyError, ValueError) as e:
+            # spec: EXCEPTION-REGISTRY — 内容层错误立即传播，不重试
+            if cost_tracker:
+                cost_tracker("retry_failed", 0)
+            raise
+
+        except RETRYABLE_EXCEPTIONS as e:
+            if not _is_retryable(e):
+                # spec: HTTP 4xx 不重试
+                if cost_tracker:
+                    cost_tracker("retry_failed", 0)
+                raise
+
             last_error = e
+            if cost_tracker:
+                cost_tracker("retry_failed", 0)
+
             if attempt < max_retries - 1:
                 wait_time = backoff_base ** attempt
+                wait_time *= 1.0 + random.random() * 0.5  # spec: jitter 1.0-1.5×
                 logger.warning(
                     "LLM 调用失败（第 %d/%d 次），%0.1f 秒后重试: %s",
                     attempt + 1, max_retries, wait_time, str(e),
