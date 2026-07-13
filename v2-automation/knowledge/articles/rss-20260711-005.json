@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-005",
+  "title": "AI-integrated models for assessing agricultural resilience",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07759",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:23:02.184028+00:00",
+  "collected_at": "2026-07-11T09:23:02.184028+00:00",
+  "summary": "该研究探讨了将人工智能模型整合到农业韧性评估中的方法，通过分析环境、经济和社会数据，提高对气候变化和灾害的应对能力。其核心价值在于为农业决策提供数据驱动的预测和优化策略，有助于实现可持续农业发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:24:15.559951+00:00"
+}

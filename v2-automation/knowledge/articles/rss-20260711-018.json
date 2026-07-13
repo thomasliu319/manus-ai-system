@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-018",
+  "title": "Agentic Neural Architecture Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:23:02.184096+00:00",
+  "collected_at": "2026-07-11T09:23:02.184096+00:00",
+  "summary": "Agentic Neural Architecture Search 提出了一种基于智能体（Agent）的神经架构搜索方法，通过将搜索过程分解为多个自主决策步骤，利用强化学习或进化策略来高效探索架构空间。该方法旨在降低传统NAS的计算成本，同时提升搜索的灵活性和可解释性，为自动化机器学习提供了新的范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:24:15.559997+00:00"
+}

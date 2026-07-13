@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-003",
+  "title": "Ghost Font: A font that humans can read but AI cannot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.mixfont.com/ghost-font",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-12T09:47:08.758162+00:00",
+  "collected_at": "2026-07-12T09:47:08.758162+00:00",
+  "summary": "该技术介绍了一种名为“Ghost Font”的字体，设计为人类可读但AI难以识别，旨在对抗AI的文本抓取和识别。其核心价值在于探索人机可读性的差异，可能用于保护文本内容免受AI自动化处理。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:48:32.862457+00:00"
+}
