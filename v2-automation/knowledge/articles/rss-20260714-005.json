@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-005",
+  "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09665",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:53:04.837435+00:00",
+  "collected_at": "2026-07-14T09:53:04.837435+00:00",
+  "summary": "本文提出了一种名为格式敏感性指数（Format Sensitivity Index, FSI）的指标，用于评估大型语言模型（LLM）在提示词包装（prompt wrapper）下的鲁棒性及其对输出格式的遵循能力。通过控制提示词中的标记（token）变化，该研究系统性地衡量了LLM在不同格式约束下的表现，为LLM基准测试提供了新的评估维度。其核心价值在于帮助开发者优化提示词设计，提升模型输出的可靠性和一致性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:54:16.137148+00:00"
+}

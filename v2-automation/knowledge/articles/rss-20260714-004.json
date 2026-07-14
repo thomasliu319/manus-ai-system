@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-004",
+  "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09664",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:53:04.837386+00:00",
+  "collected_at": "2026-07-14T09:53:04.837386+00:00",
+  "summary": "该论文提出利用图尔敏论证模型将机器学习预测转化为可解释的诊断辅助信息，增强了AI在医疗等领域的可解释性和可信度。核心价值在于通过结构化论证框架，使模型输出更符合临床推理逻辑，提升人机协作效率。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:54:16.137143+00:00"
+}

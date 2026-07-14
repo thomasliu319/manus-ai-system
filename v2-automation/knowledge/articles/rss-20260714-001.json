@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-001",
+  "title": "Samsung Health app threatens data deletion if users opt out AI training",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://neow.in/cWsyMTV3",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-14T09:53:04.237570+00:00",
+  "collected_at": "2026-07-14T09:53:04.237570+00:00",
+  "summary": "三星健康应用（Samsung Health）威胁称，如果用户选择退出AI训练，将删除其数据。这一做法引发了关于用户数据隐私和AI训练伦理的讨论，凸显了科技公司在数据使用与用户控制权之间的紧张关系。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:54:16.137132+00:00"
+}
