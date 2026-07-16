@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-015",
+  "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13285",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:03:40.526048+00:00",
+  "collected_at": "2026-07-16T10:03:40.526048+00:00",
+  "summary": "该文章介绍了如何使不断演化的智能体框架更具可读性、可导航性和可编辑性，提出了一种名为Harness Handbook的方法。核心价值在于通过结构化设计和交互优化，提升开发者对复杂智能体系统的理解与维护效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:04:40.516320+00:00"
+}

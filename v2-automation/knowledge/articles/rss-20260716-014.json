@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-014",
+  "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:03:40.526043+00:00",
+  "collected_at": "2026-07-16T10:03:40.526043+00:00",
+  "summary": "本文提出了一种针对交通管理场景的基础模型部署组合优化方法，旨在通过成本最优的方式选择并配置多个基础模型。该方法能够有效平衡模型性能与部署成本，为交通管理系统的智能化升级提供实用指导。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:04:40.516316+00:00"
+}

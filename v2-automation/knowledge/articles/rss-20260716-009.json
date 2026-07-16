@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-009",
+  "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13157",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:03:40.526020+00:00",
+  "collected_at": "2026-07-16T10:03:40.526020+00:00",
+  "summary": "Oracle Agent Memory 提出了一种企业级记忆基板，用于支持长周期AI代理的持久化记忆管理。该技术通过结构化存储和检索代理的交互历史，解决了长期任务中的上下文丢失问题，提升了代理在复杂工作流中的连贯性和效率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:04:40.516299+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260716-017",
+  "title": "EZSMT Version 3, Matured",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13344",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:03:40.526056+00:00",
+  "collected_at": "2026-07-16T10:03:40.526056+00:00",
+  "summary": "EZSMT Version 3 是一个成熟的SMT（可满足性模理论）求解器版本，提供了更稳定和高效的求解能力。该版本在性能、可靠性和易用性上进行了优化，适用于形式化验证和约束求解等场景。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:04:40.516326+00:00"
+}

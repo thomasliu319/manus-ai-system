@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-007",
+  "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13104",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:03:40.526011+00:00",
+  "collected_at": "2026-07-16T10:03:40.526011+00:00",
+  "summary": "该论文综述了现代智能体系统中自我改进的方法，涵盖从反馈驱动优化到自主迭代学习的多种技术路径。核心价值在于系统梳理了智能体如何通过自我反思和环境交互持续提升性能，为构建更自主、适应性更强的AI系统提供了理论框架和实践指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:04:40.516292+00:00"
+}
