@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260718-007",
+  "title": "Connect more of your apps to Search",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "author": "Google AI Blog",
+  "published_at": "2026-07-18T09:19:12.591699+00:00",
+  "collected_at": "2026-07-18T09:19:12.591699+00:00",
+  "summary": "该内容介绍了如何将更多应用连接到Google搜索，以扩展搜索功能并提升信息获取效率。核心价值在于通过集成不同应用，使用户能够更便捷地访问和利用分散的数据。",
+  "score": 6,
+  "tags": [
+    "tool-use",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:20:19.603200+00:00"
+}
