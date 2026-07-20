@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-008",
+  "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15281",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:46:45.487254+00:00",
+  "collected_at": "2026-07-20T10:46:45.487254+00:00",
+  "summary": "该论文提出Causal-Audit框架，通过构建目标感知的因果链来实现显式且可审计的图推理。其核心价值在于增强了AI推理过程的透明度和可解释性，使得推理步骤可以被明确追踪和审计。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-20T10:47:54.337514+00:00"
+}
