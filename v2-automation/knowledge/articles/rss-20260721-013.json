@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-013",
+  "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:21:23.974085+00:00",
+  "collected_at": "2026-07-21T10:21:23.974085+00:00",
+  "summary": "本文探讨了通过结构化基准测试和参数高效微调（PEFT）技术，使小型语言模型（SLM）能够在本地部署中实现AI民主化。核心价值在于降低计算资源需求，同时保持模型性能，推动AI技术的广泛可及性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:22:32.187044+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-019",
+  "title": "Shapley Context Pruning: A Cooperative Game Perspective for Context Reranking and Pruning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:21:23.974109+00:00",
+  "collected_at": "2026-07-21T10:21:23.974109+00:00",
+  "summary": "该论文提出了一种基于合作博弈论（Shapley值）的上下文剪枝方法，用于对检索增强生成（RAG）中的上下文片段进行重排序和剪枝。核心价值在于通过博弈论视角量化每个上下文片段对生成结果的贡献，从而更高效地选择关键信息，提升模型性能和推理效率。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:22:32.187059+00:00"
+}
