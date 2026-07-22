@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-017",
+  "title": "S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18258",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:21:17.494971+00:00",
+  "collected_at": "2026-07-22T10:21:17.494971+00:00",
+  "summary": "该论文提出了一种基于层次化信用分配的稳定偏好强化学习方法（S2T-RLHF），旨在解决传统RLHF中奖励稀疏和信用分配不稳定的问题。通过将序列决策分解为子任务并分配局部信用，该方法提升了训练稳定性和最终性能，为偏好对齐提供了更可靠的框架。",
+  "score": 8,
+  "tags": [
+    "reinforcement-learning",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:22:28.452765+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-006",
+  "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18241",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:21:17.494919+00:00",
+  "collected_at": "2026-07-22T10:21:17.494919+00:00",
+  "summary": "该论文提出BatchDAG，一种利用大语言模型（LLM）生成执行图（DAG）的方法，用于在企业数据上进行可扩展的临时分析。其核心价值在于通过LLM规划复杂分析任务的执行流程，提升分析效率和可扩展性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:22:28.452727+00:00"
+}

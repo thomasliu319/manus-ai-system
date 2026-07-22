@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260722-005",
+  "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18240",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:21:17.494905+00:00",
+  "collected_at": "2026-07-22T10:21:17.494905+00:00",
+  "summary": "该论文提出了一种通过证据链评估进行校准的选择性事实核查方法，旨在提高AI系统在事实核查任务中的准确性和可靠性。其核心价值在于通过证据链的逐步评估来优化事实核查过程，减少错误判断。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:22:28.452724+00:00"
+}

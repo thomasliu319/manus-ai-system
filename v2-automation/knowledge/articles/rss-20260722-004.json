@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-004",
+  "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:21:17.494872+00:00",
+  "collected_at": "2026-07-22T10:21:17.494872+00:00",
+  "summary": "该论文提出了一种系统性评估前沿AI系统工具性权力寻求倾向的方法，通过设计特定测试场景来量化模型在追求目标时是否表现出权力寻求行为。该研究对于理解AI安全风险、特别是高级AI系统的潜在失控风险具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "security",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:22:28.452721+00:00"
+}
