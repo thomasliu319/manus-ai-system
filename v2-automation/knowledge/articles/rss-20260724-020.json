@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-020",
+  "title": "Benchmarking Large Language Models on Multi-Sensor Physical Hazard Assessment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:12:13.899298+00:00",
+  "collected_at": "2026-07-24T10:12:13.899298+00:00",
+  "summary": "该论文探讨了如何利用大型语言模型（LLMs）进行多传感器物理危害评估，提出了一种将多源传感器数据与语言模型推理能力相结合的方法。其核心价值在于展示了LLMs在安全关键领域（如灾害预警）的潜在应用，通过自然语言处理增强对复杂环境风险的实时分析能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:13:19.126557+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-006",
+  "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20452",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:12:13.899202+00:00",
+  "collected_at": "2026-07-24T10:12:13.899202+00:00",
+  "summary": "该论文提出了一种名为AINTMA的自主测试管理架构，该架构结合了生成式智能、安全云通信和自适应质量分析，旨在通过AI代理实现测试流程的自动化。其核心价值在于通过多代理协作和云端安全机制，提升软件测试的效率、安全性和适应性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:13:19.126504+00:00"
+}
