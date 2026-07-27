@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-017",
+  "title": "FrED: External Data Influence Estimation via Domain Knowledge Graph Grounding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21615",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:14:57.866258+00:00",
+  "collected_at": "2026-07-27T11:14:57.866258+00:00",
+  "summary": "该论文提出了一种名为FrED的方法，通过领域知识图谱来估计外部数据对模型的影响。其核心价值在于提供了一种可解释且高效的方式，用于评估和选择对特定领域任务最有帮助的外部数据，从而提升模型性能。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T11:16:05.121575+00:00"
+}

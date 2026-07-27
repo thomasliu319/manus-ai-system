@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-007",
+  "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21601",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:14:57.866214+00:00",
+  "collected_at": "2026-07-27T11:14:57.866214+00:00",
+  "summary": "该论文提出了一种从帧级识别到事件级确认的修复痕迹与运行时故障分析方法，用于公共空间手势交互系统的可靠性提升。核心价值在于通过分析交互过程中的错误模式，为手势识别系统提供鲁棒的故障检测与修复机制。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:16:05.121547+00:00"
+}

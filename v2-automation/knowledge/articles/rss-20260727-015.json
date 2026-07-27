@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-015",
+  "title": "The Hard Decision Layer: Evidence for Committed Inference in Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21613",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:14:57.866249+00:00",
+  "collected_at": "2026-07-27T11:14:57.866249+00:00",
+  "summary": "该论文提出了一种名为“Hard Decision Layer”的新机制，通过引入硬决策层来增强Transformer模型在推理过程中的承诺性，即模型在早期阶段就做出明确的选择。实验表明，该方法在多个推理任务上提升了模型的准确性和效率，为理解Transformer的推理机制提供了新的视角。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-27T11:16:05.121570+00:00"
+}
