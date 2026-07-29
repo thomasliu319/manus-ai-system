@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-016",
+  "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24780",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:34:14.216679+00:00",
+  "collected_at": "2026-07-29T10:34:14.216679+00:00",
+  "summary": "该论文提出了一种名为LivingArena的评估方法，通过让大语言模型（LLMs）相互探查（peer-probing），以可扩展的方式评估它们对彼此知识边界的认知。核心价值在于提供了一种无需人工标注的、动态的模型间知识差异评估方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:35:28.757780+00:00"
+}

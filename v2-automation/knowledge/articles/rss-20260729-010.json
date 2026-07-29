@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-010",
+  "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24771",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:34:14.216652+00:00",
+  "collected_at": "2026-07-29T10:34:14.216652+00:00",
+  "summary": "该论文提出了一种名为RoCo-ACE的在线蒸馏方法，用于在知识注入过程中保留模型已有的能力。核心是通过rollout条件化策略，在蒸馏时优先保留对模型性能关键的知识，从而缓解灾难性遗忘问题。该方法在持续学习场景下具有重要价值，能有效平衡新知识学习与旧知识保持。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:35:28.757757+00:00"
+}

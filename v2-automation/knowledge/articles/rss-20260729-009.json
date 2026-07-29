@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-009",
+  "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24770",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:34:14.216647+00:00",
+  "collected_at": "2026-07-29T10:34:14.216647+00:00",
+  "summary": "ProcAgent 提出了一种基于智能体的框架，用于在边缘设备上提供程序性任务指导，并集成了人类反馈循环。该框架通过将任务分解为可执行的步骤，并利用边缘计算实现低延迟和隐私保护，同时允许人类在关键决策点进行干预和修正。其核心价值在于将 AI 的自动化能力与人类的监督相结合，以提升复杂任务执行的准确性和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:35:28.757754+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-006",
+  "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24766",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:34:14.216630+00:00",
+  "collected_at": "2026-07-29T10:34:14.216630+00:00",
+  "summary": "该论文提出Crystalis方法，通过渐进式核化与语义退火技术，实现多视图可视化生成的协调一致。核心价值在于解决了多视图生成中的语义对齐与结构协调问题，提升了可视化生成的连贯性和可用性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:35:28.757743+00:00"
+}
