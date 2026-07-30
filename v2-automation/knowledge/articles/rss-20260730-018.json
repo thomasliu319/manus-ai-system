@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-018",
+  "title": "Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26588",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:20:34.588489+00:00",
+  "collected_at": "2026-07-30T10:20:34.588489+00:00",
+  "summary": "该论文提出Eco3S框架，利用基于智能体的模型对复杂社会经济系统进行仿真。其核心价值在于提供一种新的方法来模拟和分析社会经济动态，有助于政策制定和系统理解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:21:38.834108+00:00"
+}

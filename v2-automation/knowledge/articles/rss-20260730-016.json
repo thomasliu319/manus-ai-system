@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-016",
+  "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26490",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:20:34.588466+00:00",
+  "collected_at": "2026-07-30T10:20:34.588466+00:00",
+  "summary": "EvoPINN 提出了一种基于智能体进化的方法，用于自动发现适用于物理信息神经网络的可执行算法。该方法通过智能体搜索和进化策略，优化了 PINN 的训练过程，提升了求解偏微分方程的效率和准确性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:21:38.834102+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-012",
+  "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26367",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:20:34.588445+00:00",
+  "collected_at": "2026-07-30T10:20:34.588445+00:00",
+  "summary": "该论文探讨了AI代理在物理问题中发现统计力学映射的能力，展示了AI如何通过结构探索来识别物理问题中的潜在模式。研究为AI在理论物理中的应用提供了新视角，具有推动科学发现自动化的潜力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:21:38.834090+00:00"
+}
