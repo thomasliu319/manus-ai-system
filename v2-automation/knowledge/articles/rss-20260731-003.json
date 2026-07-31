@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-003",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T10:33:35.051741+00:00",
+  "collected_at": "2026-07-31T10:33:35.051741+00:00",
+  "summary": "GCC 指导委员会宣布了针对 AI 生成代码的贡献政策，明确了 AI 辅助开发在编译器项目中的使用规范。该政策旨在平衡 AI 工具的效率与代码质量及法律合规性，对开源社区具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:34:47.731703+00:00"
+}
