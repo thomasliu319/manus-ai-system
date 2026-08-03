@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-001",
+  "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-03T11:17:07.603525+00:00",
+  "collected_at": "2026-08-03T11:17:07.603525+00:00",
+  "summary": "OpenAI 的超级政治行动委员会（super PAC）资助了一个 AI 生成的新闻网站，该网站发布攻击行业批评者的内容。这一事件揭示了 AI 技术在政治宣传和舆论操控中的潜在滥用，引发了对 AI 伦理和监管的讨论。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:18:24.921001+00:00"
+}

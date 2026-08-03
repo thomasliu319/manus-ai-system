@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-012",
+  "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28678",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:17:08.367796+00:00",
+  "collected_at": "2026-08-03T11:17:08.367796+00:00",
+  "summary": "ViSAGE 提出了一种用于长视频理解的自校正记忆机制，通过迭代更新视觉记忆来提升模型对长时间序列的推理能力。该方法在多个基准上显著优于现有技术，为视频理解领域提供了新的思路。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:18:24.921061+00:00"
+}
