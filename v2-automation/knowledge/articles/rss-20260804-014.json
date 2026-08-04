@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-014",
+  "title": "SIRIN: A Unified Toolkit for Detecting Contextual Hallucinations in Retrieval-Augmented and Memory-Grounded LLM Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00033",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:32:20.594919+00:00",
+  "collected_at": "2026-08-04T10:32:20.594919+00:00",
+  "summary": "SIRIN 是一个统一的工具包，用于检测检索增强生成（RAG）和基于记忆的 LLM 系统中的上下文幻觉。它提供了一种系统化的方法来识别模型输出与检索或记忆上下文不一致的情况，从而提高系统的可靠性和可信度。该工具包的价值在于为开发者和研究者提供了一种实用的解决方案，以应对 LLM 应用中常见的幻觉问题。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:33:30.644690+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-004",
+  "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00001",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:32:20.594829+00:00",
+  "collected_at": "2026-08-04T10:32:20.594829+00:00",
+  "summary": "该论文重新审视经典思想实验，以评估人工智能意识，旨在为AI安全提供理论框架。通过分析意识测量方法，论文探讨了如何识别和应对具有潜在意识能力的AI系统，对AI安全研究具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:33:30.644652+00:00"
+}

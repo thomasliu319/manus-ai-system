@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-018",
+  "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00101",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:32:20.594936+00:00",
+  "collected_at": "2026-08-04T10:32:20.594936+00:00",
+  "summary": "该论文对GitHub Copilot在生产环境中的代理式编码行为进行了大规模特征分析，揭示了代理工作流的实际使用模式、性能瓶颈及潜在风险。研究基于生产级追踪数据，为代理式编码系统的优化和评估提供了实证基础，对AI辅助开发工具的设计具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T10:33:30.644702+00:00"
+}

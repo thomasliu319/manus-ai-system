@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-005",
+  "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00003",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:32:20.594868+00:00",
+  "collected_at": "2026-08-04T10:32:20.594868+00:00",
+  "summary": "AutoFOAM 提出了一种自优化的自主智能体，用于自动化 OpenFOAM 计算流体力学仿真流程，通过迭代修正输入和参数来提升仿真精度与效率。该工作展示了将大语言模型与领域特定工具结合，实现复杂工程任务的自动化，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:33:30.644656+00:00"
+}
