@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-014",
+  "title": "Architectural Implications of Agentic AI Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04458",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.165990+00:00",
+  "collected_at": "2026-08-06T10:33:53.165990+00:00",
+  "summary": "该论文探讨了智能体工作流对系统架构的影响，分析了多智能体协作、工具调用和推理过程对计算资源、延迟和可扩展性的需求。文章为设计和部署智能体系统提供了架构层面的指导，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781440+00:00"
+}

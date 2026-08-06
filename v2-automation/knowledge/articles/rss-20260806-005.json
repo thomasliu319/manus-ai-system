@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-005",
+  "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04095",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.165943+00:00",
+  "collected_at": "2026-08-06T10:33:53.165943+00:00",
+  "summary": "FinPerMA 是一个针对 LLM 代理的个性化记忆基准测试，其设计基于理论指导并围绕事件进行构建。该基准旨在评估 LLM 代理在金融领域中对个性化信息的记忆和利用能力，为相关研究提供了标准化的评估方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781406+00:00"
+}

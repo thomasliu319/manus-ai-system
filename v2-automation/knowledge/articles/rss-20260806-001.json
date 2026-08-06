@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-001",
+  "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04012",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.165874+00:00",
+  "collected_at": "2026-08-06T10:33:53.165874+00:00",
+  "summary": "本文提出了一种基于冗余调整的人工年龄评分（AAS）的长期持久性理论，用于评估AI系统在长期运行中的稳定性和适应性。该理论通过引入冗余机制来量化系统在复杂环境下的持久性，为AI系统的设计和评估提供了新的理论框架。其核心价值在于为AI系统的长期可靠性分析提供了可量化的方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781392+00:00"
+}

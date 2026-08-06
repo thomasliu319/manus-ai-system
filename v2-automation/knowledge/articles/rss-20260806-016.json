@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-016",
+  "title": "Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04519",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.165999+00:00",
+  "collected_at": "2026-08-06T10:33:53.165999+00:00",
+  "summary": "该论文提出了一种新的基准测试，用于评估机器学习模型在机器遗忘（unlearning）场景下的多跳推理一致性和恢复鲁棒性。其核心价值在于为AI安全与隐私领域提供了更全面的评估工具，有助于开发更可靠的遗忘算法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781446+00:00"
+}

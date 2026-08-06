@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-017",
+  "title": "What Is a Skill Worth? Structure-Aware Shapley Valuation of Agent Skills",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04562",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.166003+00:00",
+  "collected_at": "2026-08-06T10:33:53.166003+00:00",
+  "summary": "该论文提出了一种结构感知的Shapley值方法，用于评估智能体技能的价值，考虑了技能之间的依赖关系和交互效应。该方法能够更准确地量化每个技能对整体性能的贡献，为智能体技能优化和资源分配提供理论依据。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781449+00:00"
+}

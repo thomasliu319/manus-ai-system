@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-009",
+  "title": "Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04232",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:33:53.165967+00:00",
+  "collected_at": "2026-08-06T10:33:53.165967+00:00",
+  "summary": "该研究提出了一种内感受注意力机制，使智能体能够根据内部稳态需求动态调整感知优先级，从而在觅食任务中优化资源获取与能量平衡。其核心价值在于将生物内感受原理引入AI决策框架，为自适应智能体设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:35:05.781422+00:00"
+}
