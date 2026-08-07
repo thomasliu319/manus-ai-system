@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-007",
+  "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05159",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:53:03.150865+00:00",
+  "collected_at": "2026-08-07T08:53:03.150865+00:00",
+  "summary": "本文提出了一种名为“Agentic Nesting”的新方法，用于将AI代理集成到现有企业应用中，通过嵌套代理结构实现服务编排和系统整合。该方法旨在解决传统企业应用集成中的复杂性和灵活性问题，提升自动化水平和系统响应能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346756+00:00"
+}

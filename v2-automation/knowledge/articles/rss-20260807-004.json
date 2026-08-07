@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-004",
+  "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-07T08:53:02.170272+00:00",
+  "collected_at": "2026-08-07T08:53:02.170272+00:00",
+  "summary": "Meta 在其广告系统中投放了包含 AI 生成儿童性虐待图像的广告，暴露了内容审核机制的严重漏洞。该事件凸显了生成式 AI 在恶意内容生成方面的风险，以及平台在检测和过滤此类内容上的不足。技术社区需关注 AI 内容安全与审核策略的改进。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346746+00:00"
+}

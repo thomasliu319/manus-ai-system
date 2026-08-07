@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-020",
+  "title": "Coherence-Oriented Dream Scene Visualisation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:53:03.150974+00:00",
+  "collected_at": "2026-08-07T08:53:03.150974+00:00",
+  "summary": "该论文提出了一种面向梦境场景的连贯性可视化方法，旨在生成具有时空一致性的梦境图像序列。通过引入连贯性约束和场景理解模块，该方法提升了生成内容的逻辑性和视觉稳定性，为创意视觉生成领域提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346800+00:00"
+}

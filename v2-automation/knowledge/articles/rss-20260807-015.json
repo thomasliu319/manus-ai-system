@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-015",
+  "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05218",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:53:03.150949+00:00",
+  "collected_at": "2026-08-07T08:53:03.150949+00:00",
+  "summary": "PD-GS 提出了一种基于音素驱动的 3D 高斯泼溅（3DGS）方法，用于生成音频驱动的说话头视频。该方法通过音素级控制面部动作，实现了更精准的唇形同步和自然表情，相比现有方法在真实感和效率上均有提升。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346784+00:00"
+}

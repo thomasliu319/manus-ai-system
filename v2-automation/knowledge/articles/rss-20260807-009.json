@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-009",
+  "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05168",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:53:03.150916+00:00",
+  "collected_at": "2026-08-07T08:53:03.150916+00:00",
+  "summary": "该论文提出了一种名为“啄木鸟蒸馏”的新方法，利用较弱模型来诊断较强模型在推理过程中的错误，从而提升强模型的推理能力。该方法通过识别和修正推理漏洞，实现了模型性能的有效提升，为模型优化提供了新的思路。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346762+00:00"
+}

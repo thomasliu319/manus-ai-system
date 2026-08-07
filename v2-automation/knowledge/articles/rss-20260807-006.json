@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-006",
+  "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-07T08:53:02.170290+00:00",
+  "collected_at": "2026-08-07T08:53:02.170290+00:00",
+  "summary": "TIME 杂志为 AI 机器人提供了不同的网站版本，其中内置了广告，这反映了媒体如何适应 AI 抓取流量。该文章探讨了内容分发策略的变化，以及 AI 对传统出版模式的影响。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346753+00:00"
+}

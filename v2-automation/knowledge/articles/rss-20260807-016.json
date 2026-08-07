@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-016",
+  "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T08:53:03.150954+00:00",
+  "collected_at": "2026-08-07T08:53:03.150954+00:00",
+  "summary": "该论文提出了一种针对多轮对话智能体的新训练方法，通过状态匹配路由和情境化自蒸馏来解决特权引导（如教师模型或高级提示）与智能体实际行为不一致的问题。该方法旨在提升多轮智能体的性能与稳定性，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T08:54:13.346787+00:00"
+}
