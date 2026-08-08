@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-005",
+  "title": "The latest AI news we announced in July 2026",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+  "author": "Google AI Blog",
+  "published_at": "2026-08-08T08:34:19.286051+00:00",
+  "collected_at": "2026-08-08T08:34:19.286051+00:00",
+  "summary": "Google AI 在 2026 年 7 月发布了一系列重要更新，涵盖多个 AI 技术领域，展示了公司在 AI 研究和应用方面的持续进展。这些公告可能包括模型改进、工具集成或新功能，为开发者和研究人员提供了新的技术能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:35:24.163842+00:00"
+}

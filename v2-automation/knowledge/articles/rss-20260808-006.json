@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-006",
+  "title": "Inside our 353,000-person vibe coding course",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+  "author": "Google AI Blog",
+  "published_at": "2026-08-08T08:34:19.286085+00:00",
+  "collected_at": "2026-08-08T08:34:19.286085+00:00",
+  "summary": "Google AI 博客分享了一门大规模（35.3万人）的 vibe coding 课程，该课程旨在教授开发者如何利用 AI 进行代码生成。课程内容可能涵盖提示工程、工具使用和实际应用案例，反映了 AI 辅助编程教育的规模化实践。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:35:24.163845+00:00"
+}
