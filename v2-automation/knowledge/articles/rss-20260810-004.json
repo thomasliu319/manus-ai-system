@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-004",
+  "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06402",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:13:52.940231+00:00",
+  "collected_at": "2026-08-10T09:13:52.940231+00:00",
+  "summary": "该研究提出了一种利用大语言模型（LLM）将结构化过程符号化，从而实现可解释的无监督社区检测方法。通过将复杂网络中的社区结构转化为符号化表示，该方法增强了社区检测结果的可解释性，并利用了LLM的语义理解能力。其核心价值在于弥合了传统图算法与高级语义推理之间的差距，为无监督社区检测提供了新的视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:14:55.488268+00:00"
+}

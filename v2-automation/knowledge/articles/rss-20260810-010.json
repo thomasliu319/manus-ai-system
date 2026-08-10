@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-010",
+  "title": "TaskSense: Focusing on What Matters in World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06544",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:13:52.940270+00:00",
+  "collected_at": "2026-08-10T09:13:52.940270+00:00",
+  "summary": "TaskSense 提出了一种在世界模型中聚焦关键任务信息的方法，通过注意力机制提升模型在复杂环境中的决策效率。该研究为强化学习和机器人控制提供了更高效的世界模型构建思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:14:55.488291+00:00"
+}

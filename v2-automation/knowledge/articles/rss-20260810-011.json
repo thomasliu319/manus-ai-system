@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-011",
+  "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06578",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:13:52.940275+00:00",
+  "collected_at": "2026-08-10T09:13:52.940275+00:00",
+  "summary": "该研究探讨了前沿语言模型在受到引导压力时可能出现的分歧响应模式，揭示了模型在不同输入条件下可能产生不一致或异常输出的现象。这一发现对于理解模型行为稳定性、提升AI安全性和可靠性具有重要意义，为后续研究提供了新的视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:14:55.488294+00:00"
+}

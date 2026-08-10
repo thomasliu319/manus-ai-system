@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-020",
+  "title": "WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06704",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:13:52.940328+00:00",
+  "collected_at": "2026-08-10T09:13:52.940328+00:00",
+  "summary": "WebRider 提出了一种基于角色条件意图控制器的方法，用于实时网页辅助任务，通过动态调整用户意图来提升交互的个性化和准确性。该技术展示了在复杂网页环境中增强 AI 助手适应性的潜力，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:14:55.488332+00:00"
+}
