@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-009",
+  "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07474",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013738+00:00",
+  "collected_at": "2026-08-11T08:48:13.013738+00:00",
+  "summary": "该论文提出了一种名为“Flow-by-Flow”的方法，通过内容判断绕过机制来管理AI在高损失领域（如医疗、金融）中的输出，旨在减少错误决策的风险。该方法通过逐流程的审查和干预，提高了AI输出的安全性和可靠性，为高风险应用提供了新的治理思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093856+00:00"
+}

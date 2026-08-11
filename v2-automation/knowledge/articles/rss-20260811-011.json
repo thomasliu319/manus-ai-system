@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-011",
+  "title": "Emotion in an active inference model of human driving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013753+00:00",
+  "collected_at": "2026-08-11T08:48:13.013753+00:00",
+  "summary": "该研究将主动推理框架应用于人类驾驶行为建模，通过模拟情绪状态对驾驶决策的影响，提出了一种新的认知模型。该模型能够更准确地预测驾驶员在复杂交通场景中的行为，为自动驾驶系统的拟人化决策提供了理论基础。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093869+00:00"
+}

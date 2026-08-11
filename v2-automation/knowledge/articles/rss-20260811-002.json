@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-002",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://cactuscompute.com/needle",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-11T08:48:11.856104+00:00",
+  "collected_at": "2026-08-11T08:48:11.856104+00:00",
+  "summary": "Needle2 是一个仅 14MB 大小的代理型语言模型（agentic LLM），专为手机、可穿戴设备、智能家居和机器人等边缘设备设计。该模型在保持极小体积的同时，具备代理能力，能够在资源受限的环境中运行，为边缘 AI 应用提供了新的可能性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093832+00:00"
+}

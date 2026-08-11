@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-018",
+  "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07540",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013787+00:00",
+  "collected_at": "2026-08-11T08:48:13.013787+00:00",
+  "summary": "TREAT 提出了一种评估框架，用于衡量 AI 模型在等价数学表示之间访问正式知识的能力，旨在解决数学推理中表示形式对模型性能的影响。该研究通过系统化评估，揭示了模型在不同数学表示下的知识访问差异，为提升 AI 数学推理能力提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093889+00:00"
+}

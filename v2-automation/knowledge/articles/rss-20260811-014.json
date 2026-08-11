@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-014",
+  "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07530",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013769+00:00",
+  "collected_at": "2026-08-11T08:48:13.013769+00:00",
+  "summary": "该论文提出了NL2SHACL-Bench基准测试套件，用于评估自然语言到SHACL（一种用于RDF数据的约束语言）翻译的性能。该基准测试填补了自然语言处理与知识图谱验证之间的空白，为研究人员提供了一个标准化的评估平台，以推动语义网数据质量验证的自动化。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093877+00:00"
+}

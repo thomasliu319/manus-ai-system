@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-017",
+  "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07538",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013782+00:00",
+  "collected_at": "2026-08-11T08:48:13.013782+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）代理在供应链环境中进行动态谈判时，如何处理私有信息并达成协议。通过模拟实验，分析了LLM代理的谈判策略、信息不对称的影响以及达成互利结果的能力，为多代理系统在复杂经济交互中的应用提供了见解。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093886+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-007",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.whodunnitai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-11T08:48:11.856134+00:00",
+  "collected_at": "2026-08-11T08:48:11.856134+00:00",
+  "summary": "该项目展示了一个由语音驱动的谋杀悬疑游戏，用户可以通过语音与AI嫌疑人进行互动审讯。它结合了语音识别、自然语言处理和对话生成技术，为玩家提供沉浸式的交互体验，展示了AI在娱乐和互动叙事领域的应用潜力。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093850+00:00"
+}

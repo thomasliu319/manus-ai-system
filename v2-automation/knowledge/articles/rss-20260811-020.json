@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260811-020",
+  "title": "The Field Knows: Cross-Dimensional Geometry from Navigation to Black Holes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07566",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-11T08:48:13.013796+00:00",
+  "collected_at": "2026-08-11T08:48:13.013796+00:00",
+  "summary": "该论文探讨了从导航到黑洞等物理系统中场与几何结构之间的深层联系，提出了一种跨维度几何分析框架。其核心价值在于将抽象数学概念与AI技术相结合，为复杂系统建模提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:49:16.093894+00:00"
+}
