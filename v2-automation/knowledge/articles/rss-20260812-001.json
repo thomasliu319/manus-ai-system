@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-001",
+  "title": "Go is an ideal language for AI-assisted software engineering",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-12T09:07:09.384637+00:00",
+  "collected_at": "2026-08-12T09:07:09.384637+00:00",
+  "summary": "本文探讨了Go语言在AI辅助软件工程中的优势，认为其简洁性和强类型特性使其成为AI编程的理想选择。文章通过实例展示了Go如何提升AI生成代码的准确性和可维护性，为开发者提供了实用的技术见解。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:08:13.314678+00:00"
+}

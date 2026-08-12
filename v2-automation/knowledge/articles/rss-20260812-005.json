@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-005",
+  "title": "How Claude marks AI-generated content",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-12T09:07:09.384686+00:00",
+  "collected_at": "2026-08-12T09:07:09.384686+00:00",
+  "summary": "本文探讨了Claude如何标记AI生成的内容，可能涉及水印或检测技术，以提升内容透明度和可信度。该内容对理解AI内容溯源和伦理实践具有参考价值，但未提供具体技术细节。",
+  "score": 6,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:08:13.314702+00:00"
+}
