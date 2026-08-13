@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-007",
+  "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11210",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:06:53.573007+00:00",
+  "collected_at": "2026-08-13T09:06:53.573007+00:00",
+  "summary": "该论文提出了一种名为Distribird的方法，用于在贝叶斯模型校准中设计基于文献信息的先验分布，以提高校准的准确性和效率。该方法通过自动提取文献中的相关信息来构建更合理的先验，从而改善模型参数估计的可靠性。这项研究为贝叶斯统计建模提供了实用的工具，具有较高的技术价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:07:58.936527+00:00"
+}

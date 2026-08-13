@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-019",
+  "title": "Forecasting Side Effects of Activation Steering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11227",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:06:53.573094+00:00",
+  "collected_at": "2026-08-13T09:06:53.573094+00:00",
+  "summary": "该论文探讨了激活引导（activation steering）技术在语言模型中的应用，并重点研究了其副作用预测问题。通过系统分析，作者提出了一种预测激活引导可能引发的不良影响的方法，旨在提高该技术的安全性和可控性。这项工作为可解释AI和模型对齐提供了有价值的见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:07:58.936569+00:00"
+}

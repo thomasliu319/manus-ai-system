@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-014",
+  "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&amp;IDs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11220",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:06:53.573047+00:00",
+  "collected_at": "2026-08-13T09:06:53.573047+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）在过程图工程中的应用，重点是从最优工艺流程图（PFDs）生成并验证管道和仪表图（P&IDs）。研究展示了LLMs如何自动化复杂工程文档的创建与校验，提升设计效率与准确性，对工业工程和AI交叉领域具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:07:58.936554+00:00"
+}

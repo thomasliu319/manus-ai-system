@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-011",
+  "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11216",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:06:53.573032+00:00",
+  "collected_at": "2026-08-13T09:06:53.573032+00:00",
+  "summary": "该论文提出了AutoWorldModel-Bench，一个以状态为中心的基准测试，用于自动化世界模型研究，旨在评估和推动世界模型在复杂环境中的学习与推理能力。该基准为AI社区提供了标准化的评估框架，有助于加速世界模型领域的进展。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T09:07:58.936540+00:00"
+}
