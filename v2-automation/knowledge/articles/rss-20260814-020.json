@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-020",
+  "title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11234",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-14T09:02:33.804021+00:00",
+  "collected_at": "2026-08-14T09:02:33.804021+00:00",
+  "summary": "InfraBench 提出了一个用于评估基础设施代理的基准框架，从多个层面（如网络、存储）、生命周期阶段（如部署、运维）和风险维度（如安全、可靠性）对代理进行系统化评测。该工作旨在填补基础设施自动化领域缺乏标准化评估方法的空白，为研究和实践提供参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-14T09:03:40.385937+00:00"
+}
