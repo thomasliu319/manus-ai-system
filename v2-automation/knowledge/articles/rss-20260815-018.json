@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-018",
+  "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12574",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:21:12.758178+00:00",
+  "collected_at": "2026-08-15T08:21:12.758178+00:00",
+  "summary": "本文提出了一种基于Trie自动机的约束解码方法，用于在大型有限集合上高效生成符合约束的文本。该方法通过构建Trie结构来加速解码过程中的候选筛选，显著提升了生成效率和准确性，特别适用于需要严格遵循格式或词汇约束的生成任务。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591402+00:00"
+}

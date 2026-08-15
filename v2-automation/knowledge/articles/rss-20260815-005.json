@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-005",
+  "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:21:12.758111+00:00",
+  "collected_at": "2026-08-15T08:21:12.758111+00:00",
+  "summary": "该论文提出警示，对齐社区的研究成果可能被滥用为审查工具，而非仅用于提升AI安全性。作者呼吁社区反思其技术的社会影响，并采取负责任的发布策略。内容具有重要的伦理和学术价值，适合中级读者。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591361+00:00"
+}

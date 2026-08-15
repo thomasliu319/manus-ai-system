@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-015",
+  "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12476",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:21:12.758165+00:00",
+  "collected_at": "2026-08-15T08:21:12.758165+00:00",
+  "summary": "该论文提出了一种名为“受控持久内存”的机制，通过源绑定状态语义和故障关闭释放策略，为长时程AI代理提供安全、可靠的内存管理。其核心价值在于解决代理在长时间运行中状态一致性和资源释放问题，提升系统的稳定性和安全性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "memory",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591393+00:00"
+}

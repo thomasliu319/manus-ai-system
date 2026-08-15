@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-020",
+  "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12590",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:21:12.758201+00:00",
+  "collected_at": "2026-08-15T08:21:12.758201+00:00",
+  "summary": "该论文介绍了一种可审计的代理式AI系统，用于甲状腺超声诊断和报告生成，通过证据基础确保诊断的可追溯性和可靠性。系统结合了多模态视觉模型和代理推理，提升了临床决策支持的可信度。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591407+00:00"
+}

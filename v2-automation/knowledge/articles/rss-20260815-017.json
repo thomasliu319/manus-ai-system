@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-017",
+  "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12555",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:21:12.758174+00:00",
+  "collected_at": "2026-08-15T08:21:12.758174+00:00",
+  "summary": "该论文提出了一种名为CAS（因果归因分数）的新方法，用于局部和全局可解释人工智能，通过因果推断来评估特征对模型预测的贡献，从而提升解释的准确性和可靠性。该方法在多个数据集上验证了其有效性，为XAI领域提供了更稳健的解释工具。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591399+00:00"
+}

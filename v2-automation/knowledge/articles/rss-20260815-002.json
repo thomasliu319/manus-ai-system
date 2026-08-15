@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-002",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-15T08:21:11.716560+00:00",
+  "collected_at": "2026-08-15T08:21:11.716560+00:00",
+  "summary": "Google 正在利用同态加密技术使私有 AI 应用变得实用，允许在加密数据上直接进行计算，从而在不暴露原始数据的情况下实现 AI 推理。这一进展对于处理敏感数据的行业（如医疗、金融）具有重要意义，能够增强数据隐私和安全性。",
+  "score": 8,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:22:17.591347+00:00"
+}
