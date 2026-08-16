@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-006",
+  "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+  "author": "Google AI Blog",
+  "published_at": "2026-08-16T08:21:54.087244+00:00",
+  "collected_at": "2026-08-16T08:21:54.087244+00:00",
+  "summary": "Google AI 发布了其研究型医疗 AI 系统 AMIE，该系统在首次研究中展示了实时临床视频咨询能力，标志着 AI 在医疗诊断和医患交互领域的重要进展。该技术利用多模态 AI 模型，通过视频对话模拟临床场景，有望提升医疗服务的可及性和效率。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:22:55.507240+00:00"
+}

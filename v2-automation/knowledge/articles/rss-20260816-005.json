@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260816-005",
+  "title": "Bring your spreadsheet data to life with Sheets canvas",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+  "author": "Google AI Blog",
+  "published_at": "2026-08-16T08:21:54.087217+00:00",
+  "collected_at": "2026-08-16T08:21:54.087217+00:00",
+  "summary": "Google AI Blog 介绍了 Sheets canvas，这是一个将电子表格数据转化为可视化、交互式画布的功能，旨在提升数据理解和呈现效率。该技术利用 AI 辅助生成图表和布局，使用户无需手动操作即可动态探索数据，体现了 AI 在数据可视化领域的应用价值。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:22:55.507237+00:00"
+}
