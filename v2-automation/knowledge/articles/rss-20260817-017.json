@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-017",
+  "title": "MobileMem: Learning from a Year of Mobile Experiences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13606",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401131+00:00",
+  "collected_at": "2026-08-17T08:36:54.401131+00:00",
+  "summary": "MobileMem 论文总结了作者一年来在移动设备上使用和开发 AI 应用的经验，提出了针对移动环境下的记忆管理、上下文感知和个性化服务的设计原则。该工作为移动 AI 系统的开发提供了实用的技术洞察和架构建议，具有较高的工程参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206501+00:00"
+}

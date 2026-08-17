@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-002",
+  "title": "What happens when an LLM never sees material beyond fifth grade?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://littlelearner-ll.github.io/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-17T08:36:53.423533+00:00",
+  "collected_at": "2026-08-17T08:36:53.423533+00:00",
+  "summary": "该内容探讨了当大型语言模型（LLM）的训练数据仅限于五年级以下水平时，其能力与表现会如何变化。这涉及对模型知识边界、推理能力和泛化能力的分析，可能揭示数据质量与模型性能之间的关系。该讨论对于理解LLM的训练数据选择及其对实际应用的影响具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206414+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-013",
+  "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13591",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401116+00:00",
+  "collected_at": "2026-08-17T08:36:54.401116+00:00",
+  "summary": "该论文探讨了大语言模型中的稳定错误校准问题，即模型在高置信度下产生错误的现象。研究从实际角度分析了这一现象的原因和影响，并提出了可能的缓解策略，为提升模型可靠性提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206483+00:00"
+}

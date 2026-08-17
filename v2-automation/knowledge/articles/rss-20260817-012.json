@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-012",
+  "title": "AI Evaluation Should Work With Humans",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401113+00:00",
+  "collected_at": "2026-08-17T08:36:54.401113+00:00",
+  "summary": "该论文提出AI评估应结合人类参与，而非完全自动化，以更准确反映模型在真实场景中的表现。通过人机协作评估框架，可提升评估的可靠性和实用性，为AI开发提供更有效的反馈。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206440+00:00"
+}

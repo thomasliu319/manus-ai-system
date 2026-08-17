@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-011",
+  "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13574",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401109+00:00",
+  "collected_at": "2026-08-17T08:36:54.401109+00:00",
+  "summary": "Agentao 提出了一种受治理的本地优先运行时，用于支持工具使用型 LLM 代理，强调在本地环境中安全、可控地执行代理任务。该工作通过引入治理机制，解决了代理工具调用中的安全性和合规性问题，为代理的可靠部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206437+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-009",
+  "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401100+00:00",
+  "collected_at": "2026-08-17T08:36:54.401100+00:00",
+  "summary": "该研究揭示了大型语言模型中涌现的模块化认知架构，表明模型内部可能自发形成类似人类认知的功能模块，为理解LLM的内部机制和提升可解释性提供了新视角。这一发现对模型设计和优化具有潜在价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206429+00:00"
+}

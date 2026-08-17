@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-007",
+  "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13564",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:36:54.401051+00:00",
+  "collected_at": "2026-08-17T08:36:54.401051+00:00",
+  "summary": "该研究提出一种无需奖励函数的评判标准生成方法，用于减少智能体评估中的过度信任问题。通过自动归纳评判标准，该方法提升了评估的准确性和可靠性，为智能体性能评估提供了更稳健的解决方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:37:55.206423+00:00"
+}
