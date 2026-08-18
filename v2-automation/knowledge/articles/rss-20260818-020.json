@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-020",
+  "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14585",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:29:34.898937+00:00",
+  "collected_at": "2026-08-18T08:29:34.898937+00:00",
+  "summary": "Euclid-Omni 提出了一种统一的神经符号框架，用于平面几何问题的求解，结合了神经网络的模式识别能力与符号推理的严谨性。该框架旨在提升几何推理的准确性和可解释性，为 AI 在数学教育及自动化推理领域提供了新的解决方案。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-18T08:30:42.630265+00:00"
+}

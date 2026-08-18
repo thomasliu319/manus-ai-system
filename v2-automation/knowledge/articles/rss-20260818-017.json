@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-017",
+  "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14578",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:29:34.898924+00:00",
+  "collected_at": "2026-08-18T08:29:34.898924+00:00",
+  "summary": "该研究利用ABCD研究数据，提出了一种结合纵向数据与图增强方法的技术，用于预测青少年物质使用开始时间。其核心价值在于通过图结构捕捉个体间关系，提升预测准确性，为早期干预提供支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:30:42.630257+00:00"
+}

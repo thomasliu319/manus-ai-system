@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-010",
+  "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14562",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:29:34.898891+00:00",
+  "collected_at": "2026-08-18T08:29:34.898891+00:00",
+  "summary": "本文对全球高风险AI用例的法规进行了比较审查，重点关注公平性和伦理问题。它提供了不同司法管辖区监管框架的概述，并讨论了这些法规对AI开发和部署的影响。该审查有助于理解AI治理的当前格局，并指导合规策略。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:30:42.630234+00:00"
+}

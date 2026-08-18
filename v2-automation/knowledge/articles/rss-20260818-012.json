@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-012",
+  "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14566",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:29:34.898901+00:00",
+  "collected_at": "2026-08-18T08:29:34.898901+00:00",
+  "summary": "该论文指出当前对AI道德推理的评估仅关注了道德判断，而忽略了道德行动和道德动机等关键维度，导致评估结果不全面。作者提出需要开发更全面的评估框架，以涵盖AI道德推理的完整图景，这对于AI伦理和安全研究具有重要意义。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:30:42.630242+00:00"
+}
