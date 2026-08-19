@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-014",
+  "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17124",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:31:02.995090+00:00",
+  "collected_at": "2026-08-19T08:31:02.995090+00:00",
+  "summary": "该论文提出了一种可解码性判据，用于预测在大型语言模型中，隐藏状态选择何时优于多数投票。该判据为模型推理策略的选择提供了理论指导，有助于提升生成质量与效率。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:32:07.851709+00:00"
+}
