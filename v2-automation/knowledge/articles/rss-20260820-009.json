@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-009",
+  "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18104",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193329+00:00",
+  "collected_at": "2026-08-20T08:31:42.193329+00:00",
+  "summary": "该论文提出将自进化智能体建模为动态图变换的新视角，并系统综述了相关研究。它通过图结构表示智能体的状态与交互，为理解和设计自进化机制提供了统一框架，具有重要的理论价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010943+00:00"
+}

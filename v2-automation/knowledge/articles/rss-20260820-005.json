@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-005",
+  "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18086",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193307+00:00",
+  "collected_at": "2026-08-20T08:31:42.193307+00:00",
+  "summary": "本文指出当前模型卡片在开源权重基础模型的下游治理方面存在不足，并提出改进方向。文章强调模型卡片需要更全面地记录模型的能力、风险和限制，以支持负责任的使用和部署。该内容对AI治理和模型文档化实践具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010930+00:00"
+}

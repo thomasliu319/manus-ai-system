@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-007",
+  "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18092",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193320+00:00",
+  "collected_at": "2026-08-20T08:31:42.193320+00:00",
+  "summary": "该论文提出多智能体系统应优先考虑并发控制，以解决多个AI代理同时操作时产生的资源竞争和数据一致性问题。通过引入并发控制机制，可以提高系统的稳定性和效率，为多智能体协作提供更可靠的基础。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010937+00:00"
+}

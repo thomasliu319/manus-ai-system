@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-002",
+  "title": "Position: Profiling Game Worlds by Transition Complexity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18079",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193282+00:00",
+  "collected_at": "2026-08-20T08:31:42.193282+00:00",
+  "summary": "该论文提出了一种通过转换复杂度来刻画游戏世界的新方法，为游戏AI研究提供了新的分析视角。该方法有助于理解游戏环境的动态特性，并可能对游戏设计、AI代理评估等领域产生积极影响。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010919+00:00"
+}

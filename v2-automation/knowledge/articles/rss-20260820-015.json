@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-015",
+  "title": "Improving Rural Medication Safety with AI: A Scoping Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18135",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193356+00:00",
+  "collected_at": "2026-08-20T08:31:42.193356+00:00",
+  "summary": "该论文通过范围综述方法，系统评估了人工智能在农村用药安全领域的应用现状，涵盖了技术类型、应用场景及效果。研究发现AI在药物管理、处方审核和患者教育等方面具有潜力，但面临基础设施和数据质量等挑战，为后续研究和实践提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010967+00:00"
+}

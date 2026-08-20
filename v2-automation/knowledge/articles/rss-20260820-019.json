@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-019",
+  "title": "Adversarial Review: Structured Disagreement for Grounded Agentic Code Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18167",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193373+00:00",
+  "collected_at": "2026-08-20T08:31:42.193373+00:00",
+  "summary": "该论文提出了一种基于对抗性评审的智能体代码审查方法，通过结构化分歧机制增强代码审查的准确性和鲁棒性。该方法利用多智能体协作，模拟不同视角的评审意见，从而提升代码质量评估的可靠性，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010980+00:00"
+}

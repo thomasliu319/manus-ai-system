@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-010",
+  "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18110",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193334+00:00",
+  "collected_at": "2026-08-20T08:31:42.193334+00:00",
+  "summary": "本文全面综述了代理型AI（Agentic AI）的演变、背景、工作原理、应用、采用因素及未来研究方向，为理解这一新兴领域提供了系统性框架。内容覆盖了从基础概念到实际部署的关键维度，对研究者和实践者具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010950+00:00"
+}

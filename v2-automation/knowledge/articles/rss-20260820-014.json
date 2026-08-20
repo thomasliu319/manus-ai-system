@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260820-014",
+  "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18133",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:31:42.193352+00:00",
+  "collected_at": "2026-08-20T08:31:42.193352+00:00",
+  "summary": "该论文提出了一种基于模糊逻辑的优化方法，结合IEEE标准特征气体法，用于通过溶解气体分析（DGA）诊断电力变压器故障。该方法旨在提高故障诊断的准确性和可靠性，为电力设备维护提供更智能的决策支持。其核心价值在于将传统专家规则与模糊推理相结合，以处理DGA数据中的不确定性和模糊性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:32:46.010962+00:00"
+}
