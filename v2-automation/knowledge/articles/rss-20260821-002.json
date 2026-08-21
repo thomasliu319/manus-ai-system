@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260821-002",
+  "title": "Show HN: Huzzah – a novel approach to coding with AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-21T08:33:36.321397+00:00",
+  "collected_at": "2026-08-21T08:33:36.321397+00:00",
+  "summary": "Huzzah 提出了一种使用 AI 进行编码的新颖方法，可能通过创新的交互方式或工作流程来提升开发效率。该内容在 Hacker News 上获得关注，表明其具有实际应用价值。具体技术细节未提供，但标题暗示其核心是改变开发者与 AI 协作的模式。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:34:39.115289+00:00"
+}

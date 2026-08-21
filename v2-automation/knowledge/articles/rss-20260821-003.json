@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260821-003",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-21T08:33:36.321403+00:00",
+  "collected_at": "2026-08-21T08:33:36.321403+00:00",
+  "summary": "这篇文章讨论了在AI应用中避免简单粘贴AI生成内容的重要性，强调需要结合具体场景进行定制化集成。它提供了关于如何更有效地利用AI技术的实用建议，适合开发者参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:34:39.115293+00:00"
+}
