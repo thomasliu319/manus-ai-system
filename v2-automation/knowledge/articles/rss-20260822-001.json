@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260822-001",
+  "title": "I'm becoming AI-blind",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:22:16.303730+00:00",
+  "collected_at": "2026-08-22T08:22:16.303730+00:00",
+  "summary": "文章讨论了随着AI工具的普及，开发者可能逐渐丧失对AI生成内容的批判性判断能力，即'AI盲'现象。它强调了在依赖AI时保持技术警觉和验证习惯的重要性，并提出了应对策略。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:23:22.644540+00:00"
+}

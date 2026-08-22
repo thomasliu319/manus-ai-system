@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260822-002",
+  "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://annas-archive.pk/blog/physical-destruction.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:22:16.303756+00:00",
+  "collected_at": "2026-08-22T08:22:16.303756+00:00",
+  "summary": "这篇文章讨论了AI公司在训练模型时销毁实体书籍的问题，呼吁在书籍被销毁前扫描稀有书籍以保存知识。它强调了数据获取的伦理和紧迫性，对AI数据收集实践提出了重要反思。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:23:22.644550+00:00"
+}

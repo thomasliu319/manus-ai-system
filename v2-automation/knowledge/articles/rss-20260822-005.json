@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260822-005",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/zachahn/vomit",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:22:16.303776+00:00",
+  "collected_at": "2026-08-22T08:22:16.303776+00:00",
+  "summary": "该内容介绍了一种通过独立LLM清理Claude 5令牌输出的方法，旨在提高生成文本的质量和可读性。这种方法可能涉及后处理步骤，利用另一个模型来优化或修正输出，从而提升整体性能。对于关注LLM输出优化和实用技巧的开发者具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:23:22.644554+00:00"
+}
