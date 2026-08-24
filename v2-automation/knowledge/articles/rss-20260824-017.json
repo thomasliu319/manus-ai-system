@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-017",
+  "title": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20477",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:41:33.089577+00:00",
+  "collected_at": "2026-08-24T08:41:33.089577+00:00",
+  "summary": "STCO 提出了一种基于条件神经算子的新方法，用于高效求解含时偏微分方程（PDEs），通过引入时间条件机制显著提升了预测精度与泛化能力。该方法在多个基准问题上验证了其优越性，为科学计算与AI融合提供了有力工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T08:42:37.620792+00:00"
+}

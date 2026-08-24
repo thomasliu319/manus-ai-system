@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-016",
+  "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:41:33.089572+00:00",
+  "collected_at": "2026-08-24T08:41:33.089572+00:00",
+  "summary": "该研究基于53,000个AI代理配置，分析了用户将任务委托给AI的行为模式，揭示了代理配置与任务类型之间的关联。研究为理解AI代理的实际使用场景和设计更有效的代理系统提供了数据驱动的见解。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:42:37.620789+00:00"
+}

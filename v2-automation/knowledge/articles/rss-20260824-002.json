@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-002",
+  "title": "Why your local LLM feels dumber than it is",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-24T08:41:32.257137+00:00",
+  "collected_at": "2026-08-24T08:41:32.257137+00:00",
+  "summary": "这篇文章探讨了本地LLM性能表现不如预期的原因，指出模型量化、上下文窗口限制和推理参数设置等常见因素可能导致模型输出质量下降。文章提供了实用的优化建议，帮助开发者通过调整配置和提示策略来充分发挥本地模型的潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:42:37.620746+00:00"
+}

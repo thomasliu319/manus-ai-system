@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-001",
+  "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ericpardee.github.io/fire-hd-ownership/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-24T08:41:32.257110+00:00",
+  "collected_at": "2026-08-24T08:41:32.257110+00:00",
+  "summary": "作者花费266美元并利用四个AI模型成功实现了对平板电脑的自主控制，其中GLM-5.3模型在一天内完成了主要工作。该内容展示了多模型协作在硬件控制任务中的实际应用，体现了AI代理在复杂任务中的高效性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:42:37.620737+00:00"
+}
