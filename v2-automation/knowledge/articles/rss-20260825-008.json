@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-008",
+  "title": "Reviewing Model Collapse and Countermeasures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21366",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:35:25.102848+00:00",
+  "collected_at": "2026-08-25T08:35:25.102848+00:00",
+  "summary": "本文综述了模型崩溃现象及其应对策略，分析了AI模型在递归训练中性能退化的原因，并提出了多种缓解措施。该内容对理解生成模型长期稳定性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857893+00:00"
+}

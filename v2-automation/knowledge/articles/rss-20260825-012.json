@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-012",
+  "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:35:25.102863+00:00",
+  "collected_at": "2026-08-25T08:35:25.102863+00:00",
+  "summary": "该论文提出RIACT，一个负责任的人工智能系统，用于个性化学习习惯追踪和大学生早期倦怠信号检测。系统结合行为数据分析和AI模型，旨在提供及时干预，提升学生福祉。其核心价值在于将AI技术应用于教育健康领域，实现个性化监测与预警。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857907+00:00"
+}

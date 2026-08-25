@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-016",
+  "title": "The Abstention Protocol: RCA for Clos Fabrics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21412",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:35:25.102877+00:00",
+  "collected_at": "2026-08-25T08:35:25.102877+00:00",
+  "summary": "本文提出了一种名为“弃权协议”的方法，用于在Clos网络架构中进行根因分析（RCA），旨在通过让网络组件在不确定时主动弃权，提高故障定位的准确性和效率。该方法为数据中心网络运维提供了新的诊断思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857918+00:00"
+}

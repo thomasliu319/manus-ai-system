@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-004",
+  "title": "My agent.md to improve LLM-assisted code quality",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://fabiensanglard.net/agent.md/index.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-25T08:35:23.997241+00:00",
+  "collected_at": "2026-08-25T08:35:23.997241+00:00",
+  "summary": "本文介绍了如何通过编写 agent.md 文件来指导 LLM 辅助编程，提升代码质量。该文件为 AI 助手提供项目上下文、编码规范和最佳实践，使其生成更符合项目需求的代码。内容实用，适合希望优化 AI 编程工作流的开发者。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857884+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260825-017",
+  "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21417",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:35:25.102880+00:00",
+  "collected_at": "2026-08-25T08:35:25.102880+00:00",
+  "summary": "该论文提出了一种基于检索增强的机器人程序生成方法，利用模型上下文协议（MCP）将外部知识检索与程序生成相结合，并通过仿真反馈进行自动修正。该方法旨在提高机器人任务中程序生成的准确性和鲁棒性，展示了RAG与MCP在机器人领域的应用价值。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "mcp",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857921+00:00"
+}

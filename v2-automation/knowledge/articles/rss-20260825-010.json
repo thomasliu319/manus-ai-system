@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-010",
+  "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21374",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:35:25.102856+00:00",
+  "collected_at": "2026-08-25T08:35:25.102856+00:00",
+  "summary": "本文介绍了一个名为 LitReview Arena 的评估平台，该平台采用类似战斗的同行评审机制来评估文献综述代理的性能。其核心价值在于提供了一种新颖的、基于对抗性比较的评估方法，以更客观地衡量不同 AI 代理在文献综述任务上的能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:36:21.857898+00:00"
+}
