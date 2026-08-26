@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-017",
+  "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23691",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:37:02.258541+00:00",
+  "collected_at": "2026-08-26T08:37:02.258541+00:00",
+  "summary": "该论文提出了一种在开放世界多智能体环境中进行自主数学发现的方法，通过多个智能体协作探索数学问题并生成新定理。其核心价值在于展示了多智能体系统在科学发现任务中的潜力，为AI驱动的数学研究提供了新范式。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T08:38:06.203922+00:00"
+}

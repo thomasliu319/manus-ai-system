@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-018",
+  "title": "Do LLMs Understand Limit Order Book Dynamics?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23706",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:37:02.258545+00:00",
+  "collected_at": "2026-08-26T08:37:02.258545+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）在理解限价订单簿（LOB）动态方面的能力，评估了它们在金融时间序列预测和交易决策中的表现。研究发现，LLMs在捕捉市场微观结构方面存在局限性，但通过适当的提示和微调，可以提升其预测准确性。该研究为将LLMs应用于金融领域提供了有价值的见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:38:06.203925+00:00"
+}

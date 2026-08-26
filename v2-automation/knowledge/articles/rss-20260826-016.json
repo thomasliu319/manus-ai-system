@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-016",
+  "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23670",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:37:02.258538+00:00",
+  "collected_at": "2026-08-26T08:37:02.258538+00:00",
+  "summary": "该论文提出从智能体轨迹中自动构建自动机（Automata）的方法，用于预测智能体执行的失败和下一步动作。通过将轨迹转换为状态机，该方法能有效提升智能体系统的可解释性和可靠性，为复杂任务中的错误预测提供新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:38:06.203920+00:00"
+}

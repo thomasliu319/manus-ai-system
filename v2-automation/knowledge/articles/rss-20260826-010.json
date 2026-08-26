@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-010",
+  "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23641",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:37:02.258519+00:00",
+  "collected_at": "2026-08-26T08:37:02.258519+00:00",
+  "summary": "该研究探讨了在测量AI偏好时，模型自身偏好与测量工具（如提示词、评估框架）引入的偏差之间的区分问题。通过系统实验，作者提出了一种方法以分离这两种影响，有助于更准确地评估AI系统的真实偏好，对AI对齐和评估领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T08:38:06.203904+00:00"
+}

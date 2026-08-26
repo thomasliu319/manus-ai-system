@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-012",
+  "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23643",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:37:02.258526+00:00",
+  "collected_at": "2026-08-26T08:37:02.258526+00:00",
+  "summary": "FLARE 提出了一种系统性的、不确定性感知的框架，用于在医疗保健领域基于证据采用人工智能，旨在提高 AI 应用的安全性和可靠性。该框架通过量化模型不确定性并整合证据，支持临床决策，具有重要的实践价值。",
+  "score": 8,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:38:06.203910+00:00"
+}
