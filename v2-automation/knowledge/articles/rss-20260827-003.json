@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260827-003",
+  "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-27T18:45:13.341768+00:00",
+  "collected_at": "2026-08-27T18:45:13.341768+00:00",
+  "summary": "Z.ai 确认 Ox Alpha 是 GLM 系列的新模型，并计划发布其权重，这标志着开源大模型领域的又一重要进展。该模型可能具备先进的推理能力，其开源策略将促进社区研究和应用开发。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-27T18:46:23.982513+00:00"
+}
