@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-008",
+  "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26116",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:50:30.064217+00:00",
+  "collected_at": "2026-08-28T19:50:30.064217+00:00",
+  "summary": "该论文提出了一种名为“自主强化学习”的方法，用于构建能够自主发现并控制自组织现象的AI实验者。通过将科学发现过程形式化为强化学习问题，该方法使智能体能够主动设计实验、观察结果并调整策略，从而在复杂系统中实现目标控制。这项工作为自动化科学实验和复杂系统研究提供了新的范式，具有重要的方法论价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reinforcement-learning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-28T19:51:34.342596+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-006",
+  "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26113",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:50:30.064210+00:00",
+  "collected_at": "2026-08-28T19:50:30.064210+00:00",
+  "summary": "PICasso 提出了一种基于 AI 的自动化设计框架，用于硅光子器件的自主优化，通过智能算法显著提升设计效率和性能。该框架结合机器学习与优化技术，为光子器件设计领域提供了创新解决方案。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-28T19:51:34.342592+00:00"
+}

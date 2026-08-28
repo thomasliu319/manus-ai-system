@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260828-001",
+  "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-28T19:50:28.785919+00:00",
+  "collected_at": "2026-08-28T19:50:28.785919+00:00",
+  "summary": "Luanti（原 Minetest）因收到基于 AI 的无依据版权通知而被 Google Play 下架，凸显了 AI 版权投诉机制在应用商店中的滥用问题。该事件对开源项目在分发平台上的生存构成威胁，并引发对 AI 版权审查流程的反思。",
+  "score": 7,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:51:34.342570+00:00"
+}

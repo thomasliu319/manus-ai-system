@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-014",
+  "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26153",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:50:30.064236+00:00",
+  "collected_at": "2026-08-28T19:50:30.064236+00:00",
+  "summary": "该论文提出了一种名为EEG-to-Report的框架，用于将临床脑电图（EEG）数据转换为文本报告，并训练语言模型以生成这些报告。该框架包含注释和特征文本两个关键部分，旨在提高临床EEG报告的自动生成效率和准确性，为神经病学临床决策提供支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:51:34.342612+00:00"
+}

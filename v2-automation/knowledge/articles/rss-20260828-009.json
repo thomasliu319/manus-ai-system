@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-009",
+  "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26134",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:50:30.064220+00:00",
+  "collected_at": "2026-08-28T19:50:30.064220+00:00",
+  "summary": "本文探讨了在设备端能源预测中，高精度模型带来的计算开销可能导致净能量损失的现象，即“精度-效率悖论”。通过量化分析，作者揭示了在资源受限设备上，复杂模型虽提升预测准确性，但消耗的能量可能超过其节省的能量，为边缘AI模型设计提供了重要权衡视角。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:51:34.342598+00:00"
+}
