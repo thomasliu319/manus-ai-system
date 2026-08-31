@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-005",
+  "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27463",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009203+00:00",
+  "collected_at": "2026-08-31T15:46:14.009203+00:00",
+  "summary": "该论文提出将Rasch测量理论应用于大语言模型评估，以解决传统评估方法中评分者偏差和样本依赖性问题。通过将模型能力与任务难度置于同一度量尺度，该方法能提供更稳健、可解释的评估结果，对LLM评测领域具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750119+00:00"
+}

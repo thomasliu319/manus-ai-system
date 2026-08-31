@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-016",
+  "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27508",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009258+00:00",
+  "collected_at": "2026-08-31T15:46:14.009258+00:00",
+  "summary": "WM-R1 提出了一种通过强化学习训练 GUI 智能体的新方法，使其能够进行推理并利用世界模型来提升任务执行能力。该方法在 GUI 交互任务中展现出显著的性能提升，为智能体在复杂环境中的决策提供了新的思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "reinforcement-learning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750154+00:00"
+}

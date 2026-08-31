@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-011",
+  "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27477",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009236+00:00",
+  "collected_at": "2026-08-31T15:46:14.009236+00:00",
+  "summary": "该论文提出了一个针对通用移动助手在真实世界挑战性场景中的基准测试框架，旨在评估其任务完成能力和鲁棒性。通过设计多样化的复杂任务，该工作为移动助手的发展提供了标准化的评估方法，有助于推动该领域的进步。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750140+00:00"
+}

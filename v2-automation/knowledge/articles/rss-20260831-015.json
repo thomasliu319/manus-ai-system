@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-015",
+  "title": "Thinking Costs Tokens: When More Structure is Worth the Price",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27506",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009253+00:00",
+  "collected_at": "2026-08-31T15:46:14.009253+00:00",
+  "summary": "本文探讨了在AI系统中增加结构化思考（如思维链）所带来的计算成本与收益之间的权衡，指出更复杂的推理结构虽能提升准确性，但会消耗更多token。文章通过实验或案例分析，为开发者提供了在成本与性能之间做出最优决策的实用指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750152+00:00"
+}

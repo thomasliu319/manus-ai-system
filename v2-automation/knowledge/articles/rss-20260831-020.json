@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-020",
+  "title": "Generative AI Expands the Intellectual Reach of Course Based Undergraduate Research Experiences (CUREs)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27638",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009275+00:00",
+  "collected_at": "2026-08-31T15:46:14.009275+00:00",
+  "summary": "该论文探讨了生成式人工智能如何扩展基于课程的本科生研究体验（CUREs）的智力范围，通过AI辅助工具增强学生的研究能力和学习效果。其核心价值在于提出了一种将生成式AI融入教育实践的方法，以提升学生的科研参与度和创新思维。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "education",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750165+00:00"
+}

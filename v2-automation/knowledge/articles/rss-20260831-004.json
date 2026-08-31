@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-004",
+  "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009171+00:00",
+  "collected_at": "2026-08-31T15:46:14.009171+00:00",
+  "summary": "该研究构建了一个包含41年《危险边缘》节目问题的可测试人类知识时间胶囊，并集成到单一免费本地模型中，旨在评估和提升模型对历史知识的掌握能力。其核心价值在于提供了一个长期、稳定的知识基准，用于测试模型的知识广度和推理能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750116+00:00"
+}

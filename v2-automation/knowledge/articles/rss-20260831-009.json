@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-009",
+  "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:46:14.009228+00:00",
+  "collected_at": "2026-08-31T15:46:14.009228+00:00",
+  "summary": "该论文提出了一种名为“假设-评估-细化”的科学智能体，用于在未知空间系数场条件下发现偏微分方程（PDE）。该智能体通过迭代生成假设、评估其与观测数据的匹配度并细化模型，实现了对复杂物理系统的自动建模，具有重要的科学发现价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-31T15:47:19.750131+00:00"
+}
