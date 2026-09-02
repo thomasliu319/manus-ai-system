@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-009",
+  "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00015",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:28:14.550955+00:00",
+  "collected_at": "2026-09-02T12:28:14.550955+00:00",
+  "summary": "OpenAgentFlow 提出了一种系统级安全边界框架，用于管理异构 AI Agent 集群，确保不同代理在协作时遵循统一的安全策略。该框架通过动态隔离和策略执行机制，增强了多代理系统的安全性和可控性，为大规模 Agent 部署提供了关键基础设施。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T12:29:20.300839+00:00"
+}

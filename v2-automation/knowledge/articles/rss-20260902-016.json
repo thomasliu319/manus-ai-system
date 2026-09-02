@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260902-016",
+  "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00100",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:28:14.550988+00:00",
+  "collected_at": "2026-09-02T12:28:14.550988+00:00",
+  "summary": "该研究探讨了在心理测量数据上应用不同的表示学习目标（如对比学习、自编码器等）时，它们各自恢复潜在结构的能力差异。通过系统性比较，揭示了目标函数的选择会显著影响模型对数据中潜在维度的识别，为表示学习在行为科学中的应用提供了重要指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:29:20.300864+00:00"
+}

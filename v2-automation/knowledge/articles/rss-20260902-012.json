@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-012",
+  "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00032",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:28:14.550969+00:00",
+  "collected_at": "2026-09-02T12:28:14.550969+00:00",
+  "summary": "EULER 提出了一种多智能体数学发现框架，通过证据检查的返回机制探索未被充分利用的链接，以增强推理能力和结果可靠性。该方法在数学问题求解中展示了潜力，为多智能体协作提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:29:20.300852+00:00"
+}

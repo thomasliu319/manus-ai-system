@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-015",
+  "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00076",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:28:14.550983+00:00",
+  "collected_at": "2026-09-02T12:28:14.550983+00:00",
+  "summary": "该论文提出一个框架，用于系统性地审查临床AI系统的失败案例，类似于医学中的发病率和死亡率会议。它旨在通过结构化分析AI错误，提高临床AI的安全性和可靠性。该框架为临床环境中AI部署和监控提供了有价值的指导。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:29:20.300861+00:00"
+}

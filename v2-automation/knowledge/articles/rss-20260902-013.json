@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260902-013",
+  "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00071",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:28:14.550974+00:00",
+  "collected_at": "2026-09-02T12:28:14.550974+00:00",
+  "summary": "该论文探讨了在因果估计中，仅依赖预测误差评估干扰函数（nuisance functions）的不足，提出需要更全面的评估方法。研究通过理论分析和实验验证，展示了改进的评估策略如何提升因果效应估计的准确性和可靠性，对因果推断领域具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T12:29:20.300855+00:00"
+}
