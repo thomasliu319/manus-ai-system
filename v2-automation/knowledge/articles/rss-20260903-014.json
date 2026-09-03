@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-014",
+  "title": "The Ceiling Is in the Channel: Auditing Learner Gaps and Measurement Frontiers in Clinical Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01909",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:30:23.767585+00:00",
+  "collected_at": "2026-09-03T12:30:23.767585+00:00",
+  "summary": "该研究提出了一种审计临床预测模型中学习者能力差距与测量边界的方法，通过分析模型预测上限与实际表现之间的差异，识别改进空间。其核心价值在于为临床AI系统的评估与优化提供了系统性框架，有助于提升模型可靠性与实用性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:31:24.377568+00:00"
+}

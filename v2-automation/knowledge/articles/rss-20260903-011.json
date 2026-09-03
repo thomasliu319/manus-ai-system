@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-011",
+  "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01852",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:30:23.767571+00:00",
+  "collected_at": "2026-09-03T12:30:23.767571+00:00",
+  "summary": "本文探讨了持久记忆智能体（Persistent-Memory Agents）中因能力差异导致的信任缺口问题，分析了在不同能力条件下记忆系统可能出现的失败模式。该研究为设计更可靠的记忆增强型AI代理提供了重要见解，有助于提升代理在长期任务中的稳定性和用户信任度。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:31:24.377560+00:00"
+}

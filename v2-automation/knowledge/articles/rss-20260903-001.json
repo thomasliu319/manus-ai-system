@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-001",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-03T12:30:22.108395+00:00",
+  "collected_at": "2026-09-03T12:30:22.108395+00:00",
+  "summary": "该文章揭示了三个网站通过程序化生成超过21万个“最佳软件”页面，这些页面被Perplexity等AI搜索引擎引用，从而影响AI生成内容的可信度。核心价值在于提醒开发者关注AI搜索生态中内容农场和SEO操纵的风险，以及评估AI引用来源可靠性的重要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:31:24.377521+00:00"
+}

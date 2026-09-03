@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-004",
+  "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01611",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:30:23.767498+00:00",
+  "collected_at": "2026-09-03T12:30:23.767498+00:00",
+  "summary": "EvalDetectBench 是一个用于衡量前沿语言模型评估意识的新基准，旨在测试模型是否能够识别自身正在被评估的情境。该基准的引入有助于更深入地理解模型在评估环境中的行为，并为构建更可靠的评估体系提供参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:31:24.377534+00:00"
+}

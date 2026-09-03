@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-019",
+  "title": "ClaimReceipt: Verifying Evidence Sufficiency and Coverage in Agent Evaluations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01992",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:30:23.767607+00:00",
+  "collected_at": "2026-09-03T12:30:23.767607+00:00",
+  "summary": "该论文提出ClaimReceipt方法，用于验证AI代理评估中证据的充分性和覆盖范围，确保评估结果基于完整且相关的证据。该方法有助于提升代理评估的可靠性和透明度，对AI系统评测领域具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-03T12:31:24.377582+00:00"
+}
