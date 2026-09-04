@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-004",
+  "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.02981",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:26:33.889176+00:00",
+  "collected_at": "2026-09-04T12:26:33.889176+00:00",
+  "summary": "本文探讨了人工智能驱动的《新实用英语》教材的结构与实现方法，旨在通过AI技术提升英语教学的个性化和互动性。文章可能涉及利用大语言模型生成教学内容、设计自适应学习路径等，为教育技术领域提供了实践案例。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:27:28.001383+00:00"
+}

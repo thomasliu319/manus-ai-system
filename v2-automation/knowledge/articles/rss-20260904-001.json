@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-001",
+  "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-04T12:26:33.102922+00:00",
+  "collected_at": "2026-09-04T12:26:33.102922+00:00",
+  "summary": "本文分享了作者如何利用大型语言模型（LLM）阅读68000汇编代码，将其1993年的Amiga游戏移植到Godot引擎的过程。这一方法展示了LLM在理解老旧代码和辅助迁移方面的潜力，为复古软件现代化提供了创新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:27:28.001370+00:00"
+}

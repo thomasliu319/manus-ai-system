@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260904-015",
+  "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03493",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:26:33.889263+00:00",
+  "collected_at": "2026-09-04T12:26:33.889263+00:00",
+  "summary": "该论文提出了一种名为“必要工具证据路径奖励”的新方法，旨在提升代理型视觉语言模型在工具调用过程中的决策能力。通过强化学习奖励路径中必要的工具证据，该方法能有效减少无效工具调用并提高任务成功率，为多模态代理系统的训练提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-04T12:27:28.001417+00:00"
+}

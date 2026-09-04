@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-008",
+  "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03402",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:26:33.889232+00:00",
+  "collected_at": "2026-09-04T12:26:33.889232+00:00",
+  "summary": "该论文提出了一种基于提示工程的混合微个性化方法，用于通用AI教学助手，旨在实现可扩展、灵活且实时的个性化教学。通过结合宏观与微观层面的用户建模，该方法能够动态调整教学策略，提升学习体验，并为大规模教育场景中的个性化提供了一种高效的技术路径。",
+  "score": 7,
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:27:28.001397+00:00"
+}
