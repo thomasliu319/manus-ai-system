@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260905-002",
+  "title": "Corporate America is getting hooked on open-source AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-05T11:32:59.022901+00:00",
+  "collected_at": "2026-09-05T11:32:59.022901+00:00",
+  "summary": "这篇文章讨论了美国企业界对开源AI模型的日益依赖，分析了其背后的原因，包括成本效益、灵活性和避免供应商锁定等优势，同时也指出了潜在的风险和挑战。文章提供了对开源AI在企业中应用现状的深入洞察，对于理解AI技术商业化和采用趋势具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-05T11:33:57.971392+00:00"
+}
