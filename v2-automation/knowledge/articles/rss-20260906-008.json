@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-008",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "author": "Google AI Blog",
+  "published_at": "2026-09-06T11:53:17.521806+00:00",
+  "collected_at": "2026-09-06T11:53:17.521806+00:00",
+  "summary": "Google 在 Workspace 中推出 Pics 功能，提供简易的图像创建与编辑能力，集成于办公套件，提升用户内容生产效率。该技术分享展示了 AI 在图像生成与编辑领域的实际应用，对日常办公场景具有实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:54:14.534630+00:00"
+}
