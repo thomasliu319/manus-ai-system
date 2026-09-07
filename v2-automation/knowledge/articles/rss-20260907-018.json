@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-018",
+  "title": "Towards a universal language of concepts: A survey",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04528",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:53:34.435665+00:00",
+  "collected_at": "2026-09-07T13:53:34.435665+00:00",
+  "summary": "本文是一篇关于概念通用语言的综述，探讨了如何在不同AI系统间实现概念的统一表示与交流。文章系统梳理了现有方法，并提出了未来研究方向，对推动AI互操作性和通用性具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T13:54:33.624324+00:00"
+}

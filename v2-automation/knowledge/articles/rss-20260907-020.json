@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-020",
+  "title": "From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04543",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:53:34.435674+00:00",
+  "collected_at": "2026-09-07T13:53:34.435674+00:00",
+  "summary": "该论文重新思考了LLM中由歧义引发的偶然不确定性估计问题，提出从答案转向解释的视角，以更准确地量化模型在歧义输入下的不确定性。其核心价值在于改进LLM在开放世界任务中的可靠性评估，为不确定性量化提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T13:54:33.624331+00:00"
+}

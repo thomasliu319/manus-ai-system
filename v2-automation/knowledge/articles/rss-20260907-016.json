@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-016",
+  "title": "What Does Multi-Harness RL Learn? Credit Assignment and Portability in Coding Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04518",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:53:34.435656+00:00",
+  "collected_at": "2026-09-07T13:53:34.435656+00:00",
+  "summary": "该研究探讨了多任务强化学习（Multi-Harness RL）在编码智能体中的应用，重点分析了信用分配（credit assignment）和可移植性（portability）问题。通过实验揭示了多任务训练如何影响智能体的学习效率和泛化能力，为设计更高效的编码智能体提供了理论依据和实践指导。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reinforcement-learning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T13:54:33.624317+00:00"
+}

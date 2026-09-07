@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-012",
+  "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04490",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:53:34.435635+00:00",
+  "collected_at": "2026-09-07T13:53:34.435635+00:00",
+  "summary": "该论文探讨了低精度时间推理中量化导致的内存问题，并提出了一种递归状态写回机制来缓解性能退化。研究为量化模型在时序任务中的部署提供了新的优化思路，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T13:54:33.624304+00:00"
+}

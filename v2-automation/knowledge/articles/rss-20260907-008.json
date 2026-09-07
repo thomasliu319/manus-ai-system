@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260907-008",
+  "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04373",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:53:34.435614+00:00",
+  "collected_at": "2026-09-07T13:53:34.435614+00:00",
+  "summary": "该研究探讨了在金融市场中，更强大的LLM代理如何可能增加系统风险，而非降低风险。通过实验证据，揭示了模型能力提升与系统稳定性之间的复杂关系，为AI安全与金融应用提供了重要见解。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T13:54:33.624291+00:00"
+}
