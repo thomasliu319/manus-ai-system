@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-008",
+  "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05446",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420613+00:00",
+  "collected_at": "2026-09-09T12:39:09.420613+00:00",
+  "summary": "AutoFyn 技术报告提出了一种非参数化专家迭代方法，用于提升长时程智能体的性能。该方法通过迭代优化智能体的行为策略，无需依赖参数化模型，有效解决了长时程任务中的决策一致性和效率问题。该报告为智能体设计提供了新的思路，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154895+00:00"
+}

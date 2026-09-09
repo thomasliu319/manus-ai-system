@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-017",
+  "title": "When and What to Teach: Budget-Aware Online Adaptation for Web Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05513",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420653+00:00",
+  "collected_at": "2026-09-09T12:39:09.420653+00:00",
+  "summary": "本文提出了一种预算感知的在线自适应方法，用于Web代理，根据资源限制动态决定何时以及教授什么内容，以提升代理在动态环境中的性能。该方法在有限预算下优化学习效率，为Web代理的持续学习提供了实用解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154929+00:00"
+}

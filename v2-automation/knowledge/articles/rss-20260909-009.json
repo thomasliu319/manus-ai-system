@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-009",
+  "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05448",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420618+00:00",
+  "collected_at": "2026-09-09T12:39:09.420618+00:00",
+  "summary": "该论文提出了一种基于损伤感知的bandit剪枝方法，用于视觉和语言Transformer模型。该方法通过强化学习动态选择要剪枝的层和注意力头，在保持模型性能的同时显著减少计算量。其核心价值在于提供了一种自动化、高效的模型压缩技术，适用于视觉和语言任务。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154898+00:00"
+}

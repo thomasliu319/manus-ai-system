@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-014",
+  "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05505",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420640+00:00",
+  "collected_at": "2026-09-09T12:39:09.420640+00:00",
+  "summary": "SciLitBench 是一个用于评估大语言模型（LLM）在系统文献综述任务中表现的新基准，并提出了相应的设计原则。该工作填补了该领域缺乏标准化评估工具的空白，为构建和优化自动化文献综述系统提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154918+00:00"
+}

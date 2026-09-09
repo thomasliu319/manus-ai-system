@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-006",
+  "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05439",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420599+00:00",
+  "collected_at": "2026-09-09T12:39:09.420599+00:00",
+  "summary": "CriticGen 提出了一种生成感知的评估方法，将评估结果转化为可操作的反馈，以提升 AI 生成内容的质量。其核心价值在于通过更细粒度的评估信号指导模型迭代，适用于文本生成等场景。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154889+00:00"
+}

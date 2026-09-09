@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-010",
+  "title": "Compiling VGDL into Causal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05459",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420623+00:00",
+  "collected_at": "2026-09-09T12:39:09.420623+00:00",
+  "summary": "该研究提出将视频游戏描述语言（VGDL）编译为因果模型的方法，旨在通过因果推理增强AI代理对游戏环境的理解与决策能力。这一技术为游戏AI和强化学习提供了更结构化的环境表示，有望提升泛化性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154902+00:00"
+}

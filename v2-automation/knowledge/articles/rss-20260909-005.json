@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-005",
+  "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05437",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420555+00:00",
+  "collected_at": "2026-09-09T12:39:09.420555+00:00",
+  "summary": "该研究评估了大型语言模型在二阶社会推理（即推断他人信念或意图的能力）上的表现，揭示了模型在理解复杂社会互动方面的局限性。通过设计特定测试，作者分析了模型在道德判断和社交场景中的推理能力，为提升模型的社会智能提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154886+00:00"
+}

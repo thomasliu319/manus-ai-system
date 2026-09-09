@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-015",
+  "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05511",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:39:09.420644+00:00",
+  "collected_at": "2026-09-09T12:39:09.420644+00:00",
+  "summary": "SCAFFOLD提出了一种通过递归参数化技能抽象实现Web代理自我改进的方法，使代理能够从经验中学习并复用技能，提升任务完成效率。该方法在多个Web导航基准上显著优于现有基线，展示了自我改进代理的潜力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:40:13.154921+00:00"
+}
