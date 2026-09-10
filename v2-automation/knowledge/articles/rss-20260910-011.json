@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260910-011",
+  "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09413",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:38:32.570577+00:00",
+  "collected_at": "2026-09-10T12:38:32.570577+00:00",
+  "summary": "本文提出了一种决策聚焦的主动学习方法，用于尺度感知的关键材料回收。该方法通过将主动学习与下游决策目标对齐，在材料回收场景中高效选择最有价值的样本进行标注，从而提升模型在关键材料识别与回收决策中的性能。其价值在于将主动学习从传统的不确定性采样扩展到决策导向，为资源回收领域的AI应用提供了更实用的技术路径。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:39:32.429897+00:00"
+}

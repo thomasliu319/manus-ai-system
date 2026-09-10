@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260910-010",
+  "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09395",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:38:32.570573+00:00",
+  "collected_at": "2026-09-10T12:38:32.570573+00:00",
+  "summary": "该论文提出了一种基于状态路径的工具菜单（State-Path Tool Menus）方法，用于在线智能体（online agents）的工具选择与执行。核心思想是将工具菜单视为执行先验（execution prior），通过动态调整可用工具集来引导智能体在复杂任务中的决策路径，从而提升工具使用的准确性和效率。该工作为智能体工具调用提供了新的结构化视角，对提升在线任务中的工具利用率和鲁棒性具有潜在价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:39:32.429895+00:00"
+}

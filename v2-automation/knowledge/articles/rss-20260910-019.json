@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-019",
+  "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09625",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:38:32.570607+00:00",
+  "collected_at": "2026-09-10T12:38:32.570607+00:00",
+  "summary": "本文提出了一种从状态同步到认知自我进化的认知数字孪生操作架构，旨在使数字孪生系统具备自主学习和认知能力。该架构通过整合实时状态同步与认知自我进化机制，为构建更智能、自适应的数字孪生提供了新的设计思路，对复杂系统建模与仿真领域具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T12:39:32.429919+00:00"
+}

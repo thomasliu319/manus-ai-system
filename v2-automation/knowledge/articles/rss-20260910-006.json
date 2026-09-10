@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-006",
+  "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09226",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:38:32.570553+00:00",
+  "collected_at": "2026-09-10T12:38:32.570553+00:00",
+  "summary": "该论文提出自适应纠缠博弈模块（Adaptive Entangled Game Modules），旨在通过博弈论与纠缠机制提升通用人工智能的推理与决策能力。其核心价值在于为AGI系统提供一种动态自适应的模块化架构，可能推动复杂环境下的多智能体协作与策略学习。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T12:39:32.429884+00:00"
+}

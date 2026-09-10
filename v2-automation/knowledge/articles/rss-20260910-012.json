@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-012",
+  "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09418",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:38:32.570581+00:00",
+  "collected_at": "2026-09-10T12:38:32.570581+00:00",
+  "summary": "该论文提出Valerant，一种通过动作条件世界模型探索自动生成可导航游戏地图的方法。其核心价值在于利用AI世界模型模拟动作对游戏状态的影响，从而自动生成可玩的地图，减少人工设计成本，并为游戏内容生成和AI智能体训练提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:39:32.429900+00:00"
+}
