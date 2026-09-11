@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260911-019",
+  "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09657",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-11T12:30:54.914732+00:00",
+  "collected_at": "2026-09-11T12:30:54.914732+00:00",
+  "summary": "该论文提出 RESCUE-BENCH，一个面向关系感知的多方情感支持对话系统的基准测试。它填补了现有情感支持对话研究多聚焦于双人场景、忽略多方互动中复杂关系结构的空白，为评估和推进多方情感支持对话系统提供了标准化平台。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-11T12:31:48.377271+00:00"
+}

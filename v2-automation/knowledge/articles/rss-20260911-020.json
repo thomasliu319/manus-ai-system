@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260911-020",
+  "title": "PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09664",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-11T12:30:54.914737+00:00",
+  "collected_at": "2026-09-11T12:30:54.914737+00:00",
+  "summary": "该论文提出了 PRAGMA 框架，用于评估终身对话中个性化指导与记忆对齐的效果。它关注长期交互场景下 AI 如何利用记忆提供个性化建议，为对话系统的记忆机制和个性化能力提供了新的评测基准。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-11T12:31:48.377273+00:00"
+}
