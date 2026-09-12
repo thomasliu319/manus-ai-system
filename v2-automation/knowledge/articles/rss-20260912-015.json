@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-015",
+  "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10992",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146625+00:00",
+  "collected_at": "2026-09-12T11:55:09.146625+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）交互中隐私与效用之间的权衡问题，分析了不同隐私保护机制对模型性能的影响。其价值在于为设计兼顾隐私和实用性的LLM系统提供了理论指导和实践参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403809+00:00"
+}

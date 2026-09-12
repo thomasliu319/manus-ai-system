@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-020",
+  "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11065",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146647+00:00",
+  "collected_at": "2026-09-12T11:55:09.146647+00:00",
+  "summary": "MOSAIC 提出了一种查询感知的探索策略自适应方法，用于改进 GraphRAG 中的图检索过程。该方法根据查询动态调整图探索策略，以提升检索相关性和效率，为 RAG 与图结构结合提供了新的优化思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403825+00:00"
+}

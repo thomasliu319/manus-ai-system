@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-017",
+  "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11030",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146634+00:00",
+  "collected_at": "2026-09-12T11:55:09.146634+00:00",
+  "summary": "该论文提出Agent Incident Registry（AIR）概念，旨在通过记录和共享AI Agent的失败案例，防止重复出现相同错误。其核心价值在于建立类似航空事故报告系统的机制，提升Agent系统的可靠性和安全性，推动行业从失败中学习。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403817+00:00"
+}

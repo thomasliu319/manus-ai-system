@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-008",
+  "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10657",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146590+00:00",
+  "collected_at": "2026-09-12T11:55:09.146590+00:00",
+  "summary": "该论文研究了神经网络中从记忆到泛化的过渡现象（grokking），通过量化分析揭示了其缩放规律和相结构。核心价值在于为理解模型泛化机制提供了理论框架，并可能指导训练策略的优化。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403784+00:00"
+}

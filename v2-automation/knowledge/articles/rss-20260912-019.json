@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-019",
+  "title": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11061",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146642+00:00",
+  "collected_at": "2026-09-12T11:55:09.146642+00:00",
+  "summary": "该论文提出了一种基于信念偏移的分支策略，用于树结构强化学习，使模型能够在推理过程中动态调整探索方向。该方法通过检测模型信念变化的关键节点进行分支，提升了复杂推理任务中的学习效率和决策质量。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403822+00:00"
+}

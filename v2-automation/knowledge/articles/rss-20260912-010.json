@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-010",
+  "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10724",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:55:09.146602+00:00",
+  "collected_at": "2026-09-12T11:55:09.146602+00:00",
+  "summary": "该论文指出仅以任务完成度评估AI智能体是不够的，提出了在累积挑战下评估智能体韧性（resilience）和体谅性参与（considerate participation）的新框架。其价值在于推动更全面、更人性化的智能体评价标准，弥补现有评估只关注最终成功率的不足。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403789+00:00"
+}

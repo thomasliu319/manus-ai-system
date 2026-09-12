@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-001",
+  "title": "A misalignment of AI in mathematics",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://mathandai.org/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-12T11:55:07.932270+00:00",
+  "collected_at": "2026-09-12T11:55:07.932270+00:00",
+  "summary": "该内容探讨了AI在数学领域应用中的错位问题，可能涉及AI模型在数学推理和证明生成方面的局限性，以及如何通过改进评估方法和训练策略来提升AI的数学能力。核心价值在于引发对AI在严谨数学领域可靠性的反思，并推动更有效的AI数学工具开发。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:56:05.403754+00:00"
+}
