@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260913-007",
+  "title": "Show HN: Hacker News, without AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://hcker.news/?ai=exclude",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:03:40.277163+00:00",
+  "collected_at": "2026-09-13T13:03:40.277163+00:00",
+  "summary": "该项目展示了一个去除 AI 生成内容的 Hacker News 阅读界面，通过过滤或标记 AI 相关帖子，帮助用户回归纯人工讨论的社区体验。其价值在于回应了当前技术社区对 AI 内容泛滥的担忧，提供了一种可自定义的信息过滤思路。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:04:38.350179+00:00"
+}

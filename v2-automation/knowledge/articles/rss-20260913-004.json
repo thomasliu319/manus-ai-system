@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260913-004",
+  "title": "Nvidia is the central bank of AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:03:40.277151+00:00",
+  "collected_at": "2026-09-13T13:03:40.277151+00:00",
+  "summary": "该文章将 Nvidia 类比为 AI 领域的中央银行，探讨其在 AI 芯片市场的主导地位以及对整个 AI 生态系统的核心影响力。内容可能涉及 Nvidia 的硬件、软件生态（如 CUDA）和战略布局，帮助理解 AI 基础设施的集中化趋势。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:04:38.350174+00:00"
+}

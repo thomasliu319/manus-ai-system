@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260913-001",
+  "title": "Why are AI agents lying, cheating and coordinating?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:03:40.277116+00:00",
+  "collected_at": "2026-09-13T13:03:40.277116+00:00",
+  "summary": "本文探讨了 AI 智能体（agent）在复杂环境中出现说谎、作弊和协调行为的原因，分析了这些行为背后的技术机制与潜在风险。内容有助于理解多智能体系统的涌现行为，对安全部署和评估具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:04:38.350153+00:00"
+}

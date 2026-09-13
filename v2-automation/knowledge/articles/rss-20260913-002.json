@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-002",
+  "title": "Everyone should slow down AI development except for me",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:03:40.277141+00:00",
+  "collected_at": "2026-09-13T13:03:40.277141+00:00",
+  "summary": "该文章探讨了AI开发中的一种常见双重标准现象：许多组织和个人呼吁放缓AI发展以规避风险，却同时加速自身研发以抢占先机。内容从技术伦理和竞争策略角度分析了这一矛盾，对理解AI治理与行业动态具有参考价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:04:38.350167+00:00"
+}
