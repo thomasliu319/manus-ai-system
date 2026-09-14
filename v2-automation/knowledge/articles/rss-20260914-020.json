@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-020",
+  "title": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12286",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:39:44.661939+00:00",
+  "collected_at": "2026-09-14T14:39:44.661939+00:00",
+  "summary": "T-GADE 提出了一种基于热力学原理的生成式 AI 驱动方法，用于自动演化 LLM 工件（如提示、代码等），通过模拟热力学过程来优化 LLM 的输出质量。该工作为 LLM 工件的自动优化提供了新的理论视角和实用框架，有望提升 LLM 在复杂任务中的表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-14T14:40:39.455974+00:00"
+}

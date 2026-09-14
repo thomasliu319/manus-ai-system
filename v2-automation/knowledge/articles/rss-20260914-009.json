@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-009",
+  "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12101",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:39:44.661886+00:00",
+  "collected_at": "2026-09-14T14:39:44.661886+00:00",
+  "summary": "该论文提出了一种基于能力门控的池化方法，将语言模型与先验知识结合用于事件预测。通过动态评估模型在不同事件上的胜任度，选择性地融合LLM预测与先验信息，从而提升预测准确性和鲁棒性。该方法为事件预测任务提供了新的融合范式，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T14:40:39.455937+00:00"
+}
