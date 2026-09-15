@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260915-005",
+  "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13406",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332121+00:00",
+  "collected_at": "2026-09-15T13:04:25.332121+00:00",
+  "summary": "该论文提出了一个通用智能体迭代（Generalized Agent Iteration）的形式化框架，统一了迭代策略改进与递归自我改进的理论描述。其核心价值在于为智能体的持续优化与自我提升提供了严格的数学基础，有助于推动更鲁棒、可解释的自主智能体系统设计。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.832989+00:00"
+}

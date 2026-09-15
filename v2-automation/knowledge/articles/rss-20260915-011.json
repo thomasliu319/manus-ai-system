@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-011",
+  "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13466",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332156+00:00",
+  "collected_at": "2026-09-15T13:04:25.332156+00:00",
+  "summary": "该论文提出了一种自适应智能架构，用于在机器速度下实时执行AI政策，解决传统治理方法无法跟上AI系统决策速度的问题。其核心价值在于为AI政策执行提供可扩展的实时框架，适用于动态监管环境。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.833007+00:00"
+}

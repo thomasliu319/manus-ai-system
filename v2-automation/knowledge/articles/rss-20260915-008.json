@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-008",
+  "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13437",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332142+00:00",
+  "collected_at": "2026-09-15T13:04:25.332142+00:00",
+  "summary": "LabAgent 提出了一种利用 AI 智能体为科学研究定制研究中心的框架，旨在通过智能体自动化科学发现流程。该工作展示了如何将 AI 智能体应用于科研场景，提升研究效率并加速科学发现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.832998+00:00"
+}

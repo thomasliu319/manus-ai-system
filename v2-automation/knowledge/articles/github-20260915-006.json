@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-006",
+  "title": "JuliusBrussee/caveman",
+  "source": "github",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "author": "JuliusBrussee",
+  "published_at": "2026-09-15T07:52:04Z",
+  "collected_at": "2026-09-15T13:04:23.553897+00:00",
+  "summary": "JuliusBrussee/caveman 是一个针对编码智能体的代理和技能，通过模仿原始人说话风格来压缩提示词，减少 65% 的 token 消耗。其核心价值在于显著降低 LLM 调用成本，同时保持编码任务的有效性，适合需要优化 token 使用的开发者。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.832962+00:00"
+}

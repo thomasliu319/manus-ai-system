@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-009",
+  "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13457",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332147+00:00",
+  "collected_at": "2026-09-15T13:04:25.332147+00:00",
+  "summary": "TimeThink 提出了一种方法，旨在激发时间序列大语言模型的组合推理能力。该工作通过设计特定的推理链或提示策略，使模型能够对时间序列数据进行多步逻辑推理，从而提升其在复杂时序任务上的表现。其价值在于将组合推理能力引入时间序列分析领域，为时序LLM的应用开辟了新方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.833001+00:00"
+}

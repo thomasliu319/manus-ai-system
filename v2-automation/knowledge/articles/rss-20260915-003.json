@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-003",
+  "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13356",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332060+00:00",
+  "collected_at": "2026-09-15T13:04:25.332060+00:00",
+  "summary": "该论文介绍了 ZGCM-1，一个完全开源且极其高效的基础模型，专门针对数学推理和智能体搜索任务进行优化。其核心价值在于以开源方式实现了高效的基础模型，为数学和智能体搜索领域提供了新的技术方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.832982+00:00"
+}

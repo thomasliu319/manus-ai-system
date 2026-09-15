@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260915-015",
+  "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13519",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:04:25.332177+00:00",
+  "collected_at": "2026-09-15T13:04:25.332177+00:00",
+  "summary": "Fraglingo 提出了一种基于片段的自回归分子生成方法，通过考虑片段间的连接方式（attachment-aware）来设计新分子。该方法旨在提升分子设计的有效性和多样性，为药物发现和材料科学提供新的生成工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T13:05:14.833019+00:00"
+}
