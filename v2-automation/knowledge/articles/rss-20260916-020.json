@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-020",
+  "title": "A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13561",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-16T13:01:31.258191+00:00",
+  "collected_at": "2026-09-16T13:01:31.258191+00:00",
+  "summary": "该论文提出了一种混合智能体AI框架，用于智能供应链分析，结合了智能体技术与传统分析方法。其核心价值在于通过多智能体协作和工具使用，提升供应链场景下的数据分析与决策效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-16T13:02:19.624057+00:00"
+}
