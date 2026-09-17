@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-011",
+  "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17699",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:58:46.205609+00:00",
+  "collected_at": "2026-09-17T12:58:46.205609+00:00",
+  "summary": "NeMo Data Designer 是一个可扩展的框架，用于生成多模态合成数据，旨在解决训练数据稀缺和隐私问题。该框架通过模块化设计支持灵活的数据生成流程，为多模态模型训练提供高质量合成数据，具有重要的实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:59:35.948290+00:00"
+}

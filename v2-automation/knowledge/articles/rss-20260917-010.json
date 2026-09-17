@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260917-010",
+  "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17696",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:58:46.205603+00:00",
+  "collected_at": "2026-09-17T12:58:46.205603+00:00",
+  "summary": "GVD 提出了一种面向文档仓库的受治理版本控制与去重框架，旨在解决大规模文档存储中版本管理混乱和冗余数据膨胀的问题。该工作通过引入治理机制，在保证数据一致性和可追溯性的同时，有效降低存储开销，对构建企业级 RAG 知识库具有实用价值。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:59:35.948287+00:00"
+}

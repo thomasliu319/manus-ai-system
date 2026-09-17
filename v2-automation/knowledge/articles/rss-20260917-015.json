@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-015",
+  "title": "FairCompressAgent: An Agentic Framework for Fairness-Aware Model Compression for FPGA Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17786",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:58:46.205627+00:00",
+  "collected_at": "2026-09-17T12:58:46.205627+00:00",
+  "summary": "该论文提出了 FairCompressAgent，一个基于智能体的框架，用于在 FPGA 部署场景下进行公平性感知的模型压缩。其核心价值在于将公平性约束引入模型压缩流程，通过智能体自动搜索满足公平性要求的压缩策略，从而在资源受限的 FPGA 上实现公平且高效的模型部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-17T12:59:35.948302+00:00"
+}

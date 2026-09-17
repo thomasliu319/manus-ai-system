@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260917-005",
+  "title": "One Color Preprocessing Improves DSATUR",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17633",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:58:46.205574+00:00",
+  "collected_at": "2026-09-17T12:58:46.205574+00:00",
+  "summary": "该论文提出了一种针对 DSATUR 图着色算法的单色预处理改进方法，通过预先处理特定颜色来提升算法效率。这一改进在保持算法简洁性的同时，可能带来性能提升，对图着色及相关组合优化问题具有实用价值。",
+  "score": 6,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:59:35.948271+00:00"
+}
