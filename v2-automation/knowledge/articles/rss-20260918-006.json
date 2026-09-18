@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-006",
+  "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19244",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222845+00:00",
+  "collected_at": "2026-09-18T12:37:44.222845+00:00",
+  "summary": "本文系统性地分析了基于对话式LLM的智能体如何执行网络搜索，涵盖搜索决策、策略、结果及最终响应。该研究为构建更智能的搜索代理提供了实证依据和设计指导，推动了LLM与搜索工具结合领域的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781170+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-015",
+  "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19519",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222888+00:00",
+  "collected_at": "2026-09-18T12:37:44.222888+00:00",
+  "summary": "该论文提出了一种面向长时程自主智能体的分层架构，通过定义不同的抽象层级（Levels）、时间步（Ticks）和级联智能（Cascaded Intelligence）来协调复杂任务中的规划与执行。其核心价值在于为构建能够持续运行、动态适应环境的长时程智能体提供了系统化的设计框架，有助于提升多步推理和长期目标达成的稳定性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781198+00:00"
+}

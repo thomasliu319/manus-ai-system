@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-008",
+  "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19391",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222856+00:00",
+  "collected_at": "2026-09-18T12:37:44.222856+00:00",
+  "summary": "该论文提出MAGS（多智能体自动形式化保证智能体输出安全）框架，利用多智能体协作将自然语言输出自动形式化为可验证的规范，从而确保智能体生成内容的安全性。其核心价值在于为基于LLM的智能体系统提供了一种可扩展的安全保障机制，降低了部署风险。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "security",
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781177+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-014",
+  "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19515",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222883+00:00",
+  "collected_at": "2026-09-18T12:37:44.222883+00:00",
+  "summary": "该论文提出将LLM的验证能力转化为候选生成能力，通过让模型在验证过程中主动改进候选答案，从而提升生成质量。核心价值在于将验证与生成统一，为LLM自我改进和推理增强提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781195+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-016",
+  "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19523",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222892+00:00",
+  "collected_at": "2026-09-18T12:37:44.222892+00:00",
+  "summary": "该论文提出 EconSkills 框架，研究 Web 智能体在实时经济数据上的技能迁移与检索能力。通过构建基于真实经济数据的任务环境，评估智能体如何复用已有技能并检索新信息，为提升 Web 智能体的泛化性和适应性提供了新方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781201+00:00"
+}

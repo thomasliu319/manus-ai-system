@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-019",
+  "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19530",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222906+00:00",
+  "collected_at": "2026-09-18T12:37:44.222906+00:00",
+  "summary": "该论文研究双智能体简历筛选场景，评估智能体中介的招聘过程中的访问与重复性问题。通过模拟两个智能体交互，分析筛选结果的公平性和一致性，为AI驱动的招聘系统提供评估框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781209+00:00"
+}

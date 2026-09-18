@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-012",
+  "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19472",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222875+00:00",
+  "collected_at": "2026-09-18T12:37:44.222875+00:00",
+  "summary": "该论文提出通过分析大语言模型的潜在状态来检测有害内容，超越了传统依赖输出接口的检测方法。其价值在于能够更早、更准确地识别模型内部的有害意图，为LLM安全部署提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781189+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260918-001",
+  "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19170",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222770+00:00",
+  "collected_at": "2026-09-18T12:37:44.222770+00:00",
+  "summary": "该论文研究正则化强调时序差分学习（Regularized Emphatic TD Learning），旨在解决恒定步长下算法的稳定性问题。通过引入正则化项，作者证明了算法在恒定步长下的收敛性和稳定性，为强化学习中值函数估计的稳定训练提供了理论保障。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781131+00:00"
+}

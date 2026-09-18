@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260918-013",
+  "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19513",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:37:44.222879+00:00",
+  "collected_at": "2026-09-18T12:37:44.222879+00:00",
+  "summary": "该论文介绍了 QVAC Genesis III，一个大规模、高质量的开源合成 STEM 语料库，旨在提升语言模型预训练的效率。其核心价值在于通过合成数据解决 STEM 领域高质量训练数据稀缺的问题，为高效预训练提供可复用的开源资源。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:38:33.781192+00:00"
+}
