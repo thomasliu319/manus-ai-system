@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260919-015",
+  "title": "DevFest is back",
+  "source": "rss:Google AI Blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+  "author": "Google AI Blog",
+  "published_at": "2026-09-19T12:13:25.285794+00:00",
+  "collected_at": "2026-09-19T12:13:25.285794+00:00",
+  "summary": "DevFest 是 Google 开发者社区举办的全球性技术活动，旨在分享最新的 AI、Web 和移动开发技术。该活动为开发者提供了学习、交流和体验 Google 最新技术（如 TensorFlow、Gemini 等）的机会，具有较高的社区价值。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-19T12:14:13.633460+00:00"
+}
